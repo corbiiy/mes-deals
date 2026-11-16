@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-16T14:16:28.309Z",
+ "updated": "2026-11-16T14:19:09.472Z",
  "deals": [
+  {
+   "id": "3457646",
+   "title": "Routeur Gaming MSI Radix AXE6600 WiFi 6E - Tri-bande, RGB, jusqu'à 6600 Mbps, MU-MIMO, WAN/LAN 2.5G & 4 x Ports LAN 1G",
+   "temp": 107,
+   "price": "79,99€",
+   "merchant": "Amazon",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/7vhqu/3457646_1/re/300x300/qt/60/3457646_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/routeur-gaming-msi-radix-axe6600-wifi-6e-tri-bande-rgb-jusqua-6600-mbps-mu-mimo-wanlan-25g-4-x-ports-lan-1g-3457646",
+   "date": null,
+   "hotDate": "2026-11-16T14:17:15.000Z"
+  },
+  {
+   "id": "3457744",
+   "title": "Lisseur cheveux Remington",
+   "temp": null,
+   "price": "11,79€",
+   "merchant": "Amazon",
+   "category": "Santé & Cosmétiques",
+   "image": "https://static-pepper.dealabs.com/threads/raw/5YPVN/3457744_1/re/300x300/qt/60/3457744_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/remington-lisseur-cheveux-3457744",
+   "date": "2026-11-16T14:17:04.000Z",
+   "hotDate": null
+  },
+  {
+   "id": "3457739",
+   "title": "Capteur de Température & d'Humidité Sonoff SNZB-02D - avec Ecran",
+   "temp": null,
+   "price": "12,08€",
+   "merchant": "Amazon",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/3WxXF/3457739_1/re/300x300/qt/60/3457739_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/capteur-de-temperature-dhumidite-sonoff-snzb-02d-avec-ecran-3457739",
+   "date": "2026-11-16T14:16:49.000Z",
+   "hotDate": null
+  },
+  {
+   "id": "3456537",
+   "title": "Barre de Son Sonos Arc Ultra - Noir ou Blanc",
+   "temp": 103,
+   "price": "832,02€",
+   "merchant": "Amazon",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/HndFD/3456537_1/re/300x300/qt/60/3456537_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/barre-de-son-sonos-arc-ultra-3456537",
+   "date": null,
+   "hotDate": "2026-11-16T14:15:42.000Z"
+  },
+  {
+   "id": "3457743",
+   "title": "[Membres] Casquette Everyday Icons Avec Trèfle Métallisé 100% Coton - Noir (taille XS/S)",
+   "temp": null,
+   "price": "13,75€",
+   "merchant": "Adidas",
+   "category": "Mode & Accessoires",
+   "image": "https://static-pepper.dealabs.com/threads/raw/SSfd3/3457743_1/re/300x300/qt/60/3457743_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/membres-casquette-everyday-icons-avec-trefle-metallise-100-coton-noir-taille-xss-3457743",
+   "date": "2026-11-16T14:15:39.000Z",
+   "hotDate": null
+  },
+  {
+   "id": "3457742",
+   "title": "Montre connectée Apple Watch Ultra 3 - 49 mm, GPS + Cellular, Boîtier Titane Noir, Boucle Alpine, 64 Go, watchOS",
+   "temp": null,
+   "price": "592,21€",
+   "merchant": "Amazon",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/hMCtw/3457742_1/re/300x300/qt/60/3457742_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/montre-connectee-apple-watch-ultra-3-49-mm-gps-cellular-boitier-titane-noir-boucle-alpine-64-go-watchos-3457742",
+   "date": "2026-11-16T14:15:33.000Z",
+   "hotDate": null
+  },
+  {
+   "id": "3457741",
+   "title": "Offre seigneur des anneaux le 2eme jeu à -50%",
+   "temp": null,
+   "price": "31,95€",
+   "merchant": "Philibert Net",
+   "category": "Culture & Divertissement",
+   "image": "https://static-pepper.dealabs.com/threads/raw/4UrRv/3457741_1/re/300x300/qt/60/3457741_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/offre-seigneur-des-anneaux-le-2eme-heu-a-50-3457741",
+   "date": "2026-11-16T14:15:31.000Z",
+   "hotDate": null
+  },
   {
    "id": "3455514",
    "title": "Ventirad DeepCool AK620 Zero Dark - Double Tour, 6 Caloducs, 260W, 100% Noir",
@@ -51,7 +135,7 @@
   },
   {
    "id": "3457736",
-   "title": "Ecran portable 15.6'' Iiyama P1671HSC-B1- IPS, 1920x1080/60Hz, 2 USB-C, 1 mini hdmi",
+   "title": "Ecran portable 15.6'' Iiyama P1671HSC-B1 - IPS, 1920x1080/60Hz, 2 USB-C, 1 mini hdmi",
    "temp": null,
    "price": "82,50€",
    "merchant": "Amazon",
@@ -424,7 +508,7 @@
   {
    "id": "3455829",
    "title": "Chaussures de marche Sportive homme Decathlon PW 160 Slip-On - Noir, Tailles du 39 au 47",
-   "temp": 116,
+   "temp": 118,
    "price": "14,99€",
    "merchant": "Decathlon",
    "category": "Sports & Plein air",
@@ -472,7 +556,7 @@
   {
    "id": "3456905",
    "title": "Jeu de société Avalon Hill - HeroQuest : système de jeu (via remise au panier)",
-   "temp": 119,
+   "temp": 121,
    "price": "74,19€",
    "merchant": "Cultura",
    "category": "Famille & Enfants",
@@ -496,7 +580,7 @@
   {
    "id": "3457524",
    "title": "Ecran PC 27'' Iiyama Prolite XB2791HS-B1 - IPS, FHD, 120Hz, 1ms",
-   "temp": 181,
+   "temp": 184,
    "price": "85,54€",
    "merchant": "Amazon",
    "category": "High-Tech",
@@ -508,7 +592,7 @@
   {
    "id": "3457471",
    "title": "Salière et poivrière Super Mario Brothers en forme de champignon sous licence officielle Nintendo",
-   "temp": 153,
+   "temp": 157,
    "price": "12,98€",
    "merchant": "Amazon",
    "category": "Maison & Habitat",
@@ -580,7 +664,7 @@
   {
    "id": "3457517",
    "title": "Vélo électrique VTC Nakamura CROSSCITY LTD - Moteur 45Nm, Batterie 375Wh, Freins V-Brake",
-   "temp": 172,
+   "temp": 174,
    "price": "699€",
    "merchant": "Intersport",
    "category": "Sports & Plein air",
@@ -592,7 +676,7 @@
   {
    "id": "3456834",
    "title": "Death Stranding Director's Cut sur PS5",
-   "temp": 132,
+   "temp": 135,
    "price": "19,99€",
    "merchant": "Micromania Zing",
    "category": "Consoles & Jeux vidéo",
@@ -628,7 +712,7 @@
   {
    "id": "3457479",
    "title": "It Takes Two sur Nintendo Switch 1 et 2",
-   "temp": 184,
+   "temp": 186,
    "price": "23,50€",
    "merchant": "E.Leclerc",
    "category": "Consoles & Jeux vidéo",
@@ -664,7 +748,7 @@
   {
    "id": "3457545",
    "title": "Pack de 2 interrupteurs intelligents Sonoff Zigbee ZBMINIR2",
-   "temp": 326,
+   "temp": 328,
    "price": "14,91€",
    "merchant": "Amazon",
    "category": "High-Tech",
@@ -676,7 +760,7 @@
   {
    "id": "3456762",
    "title": "It Takes Two sur PS4 & PS5 (Dématérialisé)",
-   "temp": 196,
+   "temp": 199,
    "price": "7,99€",
    "merchant": "PlayStation Store",
    "category": "Consoles & Jeux vidéo",
