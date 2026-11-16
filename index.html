@@ -24,7 +24,7 @@
   .top { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
   h1 { margin: 0; font-size: 18px; }
   #updated { color: var(--muted); font-size: 12px; }
-  nav { display: flex; gap: 4px; margin-top: 8px; }
+  nav { display: flex; gap: 4px; margin-top: 8px; overflow-x: auto; scrollbar-width: none; }
   nav button { flex: none; padding: 8px 12px; border: 0; border-bottom: 3px solid transparent;
     background: none; color: var(--muted); font: inherit; font-weight: 600; cursor: pointer; }
   nav button[aria-selected="true"] { color: var(--accent); border-color: var(--accent); }
@@ -35,6 +35,8 @@
   .body { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 4px; }
   .meta { display: flex; flex-wrap: wrap; gap: 4px 10px; color: var(--muted); font-size: 12px; align-items: center; }
   .temp { color: var(--hot); background: var(--hot-bg); font-weight: 700; padding: 1px 7px; border-radius: 99px; }
+  .expired { border: 1px solid var(--line); border-radius: 99px; padding: 0 7px; font-weight: 600; }
+  .is-expired img, .is-expired .title, .is-expired .price { opacity: .55; }
   .deal a.title { color: inherit; text-decoration: none; font-weight: 600; overflow-wrap: anywhere; }
   .deal a.title:hover { text-decoration: underline; }
   .deal a.title:visited { color: var(--muted); }
@@ -64,6 +66,7 @@
       <span id="updated"></span>
     </div>
     <nav role="tablist">
+      <button role="tab" data-tab="top">Les + hot</button>
       <button role="tab" data-tab="hot">Tendance</button>
       <button role="tab" data-tab="new">Nouveaux</button>
       <button role="tab" data-tab="hidden">Cachés <span id="hiddenCount"></span></button>
@@ -80,7 +83,8 @@ const REFRESH_MS = 5 * 60 * 1000;
 
 const $ = (id) => document.getElementById(id);
 let deals = [], updated = null, lastHidden = null, toastTimer;
-let tab = ['hot', 'new', 'hidden'].includes(location.hash.slice(1)) ? location.hash.slice(1) : 'hot';
+const TABS = ['top', 'hot', 'new', 'hidden'];
+let tab = TABS.includes(location.hash.slice(1)) ? location.hash.slice(1) : 'top';
 
 function loadHidden() {
   try { return JSON.parse(localStorage.getItem(STORE)) || {}; } catch { return {}; }
@@ -111,11 +115,12 @@ function card(d) {
     isHidden ? '↩ ' : '✕ ', el('span', { className: 'label' }, isHidden ? 'Réafficher' : 'Cacher'));
   btn.setAttribute('aria-label', (isHidden ? 'Réafficher : ' : 'Cacher : ') + d.title);
   btn.onclick = () => toggle(d.id);
-  return el('article', { className: 'deal' },
+  return el('article', { className: d.expired ? 'deal is-expired' : 'deal' },
     d.image && el('img', { src: d.image, alt: '', loading: 'lazy', width: 92, height: 92 }),
     el('div', { className: 'body' },
       el('div', { className: 'meta' },
         d.temp != null && el('span', { className: 'temp' }, d.temp + '°'),
+        d.expired && el('span', { className: 'expired' }, 'Expiré'),
         d.merchant && el('span', {}, d.merchant),
         d.category && el('span', {}, d.category),
         el('span', {}, ago(when))),
@@ -133,6 +138,8 @@ function render() {
   let rows;
   if (tab === 'hidden') {
     rows = deals.filter((d) => d.id in hidden).sort((a, b) => hidden[b.id] - hidden[a.id]);
+  } else if (tab === 'top') {
+    rows = deals.filter((d) => d.top && !(d.id in hidden)).sort((a, b) => a.top - b.top);
   } else if (tab === 'hot') {
     rows = deals.filter((d) => d.hotDate && !(d.id in hidden))
       .sort((a, b) => Date.parse(b.hotDate) - Date.parse(a.hotDate));
@@ -178,7 +185,7 @@ async function refresh() {
 }
 
 function setTab(name) {
-  if (!['hot', 'new', 'hidden'].includes(name)) return;
+  if (!TABS.includes(name)) return;
   tab = name;
   window.scrollTo(0, 0);
   render();

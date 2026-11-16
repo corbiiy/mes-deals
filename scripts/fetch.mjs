@@ -50,6 +50,42 @@ async function fetchFeed(url) {
   return parse(await res.text());
 }
 
+// "Les + hot" du jour : pas de flux RSS (rss/top = classement de tous les temps),
+// on lit donc les données intégrées à la page https://www.dealabs.com/top.
+const unescapeHtml = (s) =>
+  s.replace(/&quot;/g, '"').replace(/&#0?39;|&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+
+function parseTop(html) {
+  const out = [];
+  for (const m of html.matchAll(/data-vue\d=(["'])(\{"name":"ThreadMainListItemNormalizer".*?)\1/g)) {
+    let t;
+    try { t = JSON.parse(unescapeHtml(m[2])).props?.thread; } catch { continue; }
+    if (!t?.threadId || !t.title) continue;
+    const img = t.mainImage;
+    out.push({
+      id: String(t.threadId),
+      title: t.title,
+      temp: Math.round(t.temperature),
+      price: t.price ? t.price.toLocaleString('fr-FR', { maximumFractionDigits: 2 }).replace(/\s/g, '') + '€' : '',
+      merchant: t.merchant?.merchantName ?? '',
+      category: t.mainGroup?.threadGroupName ?? '',
+      image: img ? `https://static-pepper.dealabs.com/${img.path}/${img.name}/re/300x300/qt/60/${img.name}.jpg` : '',
+      link: t.type === 'Deal' && t.titleSlug ? `https://www.dealabs.com/bons-plans/${t.titleSlug}-${t.threadId}` : t.shareableLink,
+      date: new Date(t.publishedAt * 1000).toISOString(),
+      expired: Boolean(t.isExpired),
+    });
+  }
+  return out;
+}
+
+async function fetchTop() {
+  const res = await fetch('https://www.dealabs.com/top', { headers: { 'User-Agent': UA, Accept: 'text/html' } });
+  if (!res.ok) throw new Error(`/top → HTTP ${res.status}`);
+  const list = parseTop(await res.text());
+  if (!list.length) throw new Error('/top : aucun deal trouvé, la page a peut-être changé.');
+  return list;
+}
+
 let previous = [];
 try { previous = JSON.parse(await readFile(OUT, 'utf8')).deals ?? []; } catch { /* premier lancement */ }
 const deals = new Map(previous.map((d) => [d.id, d]));
@@ -68,9 +104,21 @@ for (const d of hot) {
   deals.set(d.id, { ...old, ...d, date: old?.date ?? null, hotDate: d.date });
 }
 
-const last = (d) => Math.max(Date.parse(d.date) || 0, Date.parse(d.hotDate) || 0);
+// Les + hot : si la page est illisible, on garde le classement précédent plutôt que d'échouer.
+let top = null;
+try { top = await fetchTop(); } catch (e) { console.warn(`Les + hot ignorés : ${e.message}`); }
+if (top) {
+  for (const d of deals.values()) d.top = null;
+  top.forEach((d, i) => {
+    const old = deals.get(d.id);
+    deals.set(d.id, { hotDate: null, ...old, ...d, top: i + 1 });
+  });
+}
+
+const now = Date.now();
+const last = (d) => (d.top ? now : Math.max(Date.parse(d.date) || 0, Date.parse(d.hotDate) || 0));
 const list = [...deals.values()].sort((a, b) => last(b) - last(a)).slice(0, MAX_DEALS);
 
 const same = JSON.stringify(list) === JSON.stringify(previous);
 if (!same) await writeFile(OUT, JSON.stringify({ updated: new Date().toISOString(), deals: list }, null, 1) + '\n');
-console.log(`${list.length} deals (${hot.length} hot, ${fresh.length} nouveaux)${same ? ' — aucun changement' : ''}`);
+console.log(`${list.length} deals (${top?.length ?? 'échec'} + hot, ${hot.length} tendance, ${fresh.length} nouveaux)${same ? ' — aucun changement' : ''}`);
