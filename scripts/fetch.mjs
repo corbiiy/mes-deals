@@ -2,9 +2,15 @@
 // Lancé par GitHub Actions (voir .github/workflows/update.yml) ou à la main : node scripts/fetch.mjs
 import { readFile, writeFile } from 'node:fs/promises';
 
-const FEEDS = { hot: 'https://www.dealabs.com/rss/hot', new: 'https://www.dealabs.com/rss/nouveaux' };
+const FEEDS = {
+  hot: 'https://www.dealabs.com/rss/hot',
+  new: 'https://www.dealabs.com/rss/nouveaux',
+  all: 'https://www.dealabs.com/rss/top', // les + hot de tous les temps
+};
 const OUT = new URL('../deals.json', import.meta.url);
-const MAX_DEALS = 400;
+const MAX_RECENT = 300;      // deals récents jamais passés par les + hot
+const MAX_MONTH = 80;        // anciens + hot gardés entre 7 et 31 jours
+const DAY = 864e5;
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
 
 const decode = (s) =>
@@ -88,37 +94,58 @@ async function fetchTop() {
 
 let previous = [];
 try { previous = JSON.parse(await readFile(OUT, 'utf8')).deals ?? []; } catch { /* premier lancement */ }
-const deals = new Map(previous.map((d) => [d.id, d]));
+const deals = new Map(previous.map((d) => [d.id, { ...d }]));
 
-const [hot, fresh] = await Promise.all([fetchFeed(FEEDS.hot), fetchFeed(FEEDS.new)]);
+const [hot, fresh, all] = await Promise.all([fetchFeed(FEEDS.hot), fetchFeed(FEEDS.new), fetchFeed(FEEDS.all).catch(() => null)]);
 if (!hot.length && !fresh.length) throw new Error('Flux vides : le format a peut-être changé.');
 
 for (const d of fresh) {
   const old = deals.get(d.id);
-  deals.set(d.id, { ...old, ...d, temp: old?.temp ?? null, hotDate: old?.hotDate ?? null });
+  deals.set(d.id, { ...old, ...d, temp: old?.temp ?? null, fresh: true });
 }
 for (const d of hot) {
   const old = deals.get(d.id);
-  // Dans le flux "hot", pubDate = moment où le deal est devenu hot.
-  // Un deal vu seulement dans "hot" n'a pas de date de publication connue.
+  // Dans le flux "hot", pubDate = moment où le deal est devenu hot, pas sa date de publication.
   deals.set(d.id, { ...old, ...d, date: old?.date ?? null, hotDate: d.date });
 }
+if (all?.length) {
+  for (const d of deals.values()) d.topAll = null;
+  all.forEach((d, i) => {
+    const old = deals.get(d.id);
+    deals.set(d.id, { ...old, ...d, date: old?.date ?? d.date, topAll: i + 1 });
+  });
+}
 
-// Les + hot : si la page est illisible, on garde le classement précédent plutôt que d'échouer.
+// Les + hot du jour : si la page est illisible, on garde le classement précédent plutôt que d'échouer.
 let top = null;
 try { top = await fetchTop(); } catch (e) { console.warn(`Les + hot ignorés : ${e.message}`); }
 if (top) {
   for (const d of deals.values()) d.top = null;
   top.forEach((d, i) => {
     const old = deals.get(d.id);
-    deals.set(d.id, { hotDate: null, ...old, ...d, top: i + 1 });
+    // wasTop : sert à reconstituer les classements Semaine et Mois côté page.
+    deals.set(d.id, { ...old, ...d, top: i + 1, wasTop: true });
   });
 }
 
+// Tri de ce qu'on garde.
 const now = Date.now();
-const last = (d) => (d.top ? now : Math.max(Date.parse(d.date) || 0, Date.parse(d.hotDate) || 0));
-const list = [...deals.values()].sort((a, b) => last(b) - last(a)).slice(0, MAX_DEALS);
+const age = (d) => now - (Date.parse(d.date) || 0);
+const last = (d) => Math.max(Date.parse(d.date) || 0, Date.parse(d.hotDate) || 0);
+const everything = [...deals.values()];
+const ranked = everything.filter((d) => d.top || d.topAll);
+const pastTop = everything.filter((d) => !d.top && !d.topAll && d.wasTop);
+const week = pastTop.filter((d) => age(d) <= 7 * DAY);
+const month = pastTop.filter((d) => age(d) > 7 * DAY && age(d) <= 31 * DAY)
+  .sort((a, b) => b.temp - a.temp).slice(0, MAX_MONTH);
+const recent = everything.filter((d) => !d.top && !d.topAll && !d.wasTop)
+  .sort((a, b) => last(b) - last(a)).slice(0, MAX_RECENT);
+
+const FIELDS = ['id', 'title', 'temp', 'price', 'merchant', 'category', 'image', 'link', 'date', 'hotDate', 'expired', 'fresh', 'top', 'topAll', 'wasTop'];
+const list = [...ranked, ...week, ...month, ...recent]
+  .sort((a, b) => Number(b.id) - Number(a.id))
+  .map((d) => Object.fromEntries(FIELDS.filter((k) => d[k] != null && d[k] !== false && d[k] !== '').map((k) => [k, d[k]])));
 
 const same = JSON.stringify(list) === JSON.stringify(previous);
 if (!same) await writeFile(OUT, JSON.stringify({ updated: new Date().toISOString(), deals: list }, null, 1) + '\n');
-console.log(`${list.length} deals (${top?.length ?? 'échec'} + hot, ${hot.length} tendance, ${fresh.length} nouveaux)${same ? ' — aucun changement' : ''}`);
+console.log(`${list.length} deals (${top?.length ?? 'échec'} + hot du jour, ${all?.length ?? 'échec'} + hot de tous les temps, ${hot.length} tendance, ${fresh.length} nouveaux)${same ? ' — aucun changement' : ''}`);
