@@ -1,6 +1,568 @@
 {
- "updated": "2026-11-22T06:45:10.538Z",
+ "updated": "2026-11-22T15:01:48.203Z",
  "deals": [
+  {
+   "id": "3465376",
+   "title": "R-Type Dimensions EX - Jeu Nintendo Switch compatible Switch 2",
+   "price": "7,49€",
+   "merchant": "Nintendo",
+   "category": "Consoles & Jeux vidéo",
+   "image": "https://static-pepper.dealabs.com/threads/raw/eOfFI/3465376_1/re/300x300/qt/60/3465376_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/r-type-dimensions-ex-jeu-nintendo-switch-compatible-switch-2-3465376",
+   "date": "2026-11-22T15:00:14.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465373",
+   "title": "Aspirateur balai sans fil Dyson v16 Piston Animal + Station d'accueil indépendante",
+   "price": "569,17€",
+   "merchant": "Dyson",
+   "category": "Maison & Habitat",
+   "image": "https://static-pepper.dealabs.com/threads/raw/Tf5sz/3465373_1/re/300x300/qt/60/3465373_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/aspirateur-balai-sans-fil-dyson-v16-piston-animal-station-daccueil-independante-3465373",
+   "date": "2026-11-22T14:58:47.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465372",
+   "title": "Casque Moto intégral Ruroc AT4.0 Carbone The Batman - Du S au 2XL (Via remise au Panier)",
+   "price": "404,32€",
+   "merchant": "Ruroc",
+   "category": "Auto-Moto",
+   "image": "https://static-pepper.dealabs.com/threads/raw/JL6Xz/3465372_1/re/300x300/qt/60/3465372_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/casque-moto-integral-ruroc-at40-carbone-the-batman-du-s-au-2xl-via-remise-au-panier-3465372",
+   "date": "2026-11-22T14:49:56.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465370",
+   "title": "Baskets Vans Vero LS à Lacets - Noir/Blanc, Plusieurs tailles disponibles",
+   "price": "29,06€",
+   "merchant": "Amazon",
+   "category": "Sports & Plein air",
+   "image": "https://static-pepper.dealabs.com/threads/raw/FZjQo/3465370_1/re/300x300/qt/60/3465370_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/baskets-vans-vero-ls-a-lacets-noirblanc-3465370",
+   "date": "2026-11-22T14:46:49.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465368",
+   "title": "Chaussures Nike Dunk Low - Divers coloris, tailles 35,5 au 40",
+   "price": "47,49€",
+   "merchant": "Nike",
+   "category": "Mode & Accessoires",
+   "image": "https://static-pepper.dealabs.com/threads/raw/A1PE0/3465368_1/re/300x300/qt/60/3465368_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/chaussures-nike-dunk-low-divers-coloris-tailles-355-au-40-3465368",
+   "date": "2026-11-22T14:43:10.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465367",
+   "title": "Hogwarts Legacy : L'Héritage de Poudlard sur PS4",
+   "price": "6,99€",
+   "merchant": "PlayStation Store",
+   "category": "Consoles & Jeux vidéo",
+   "image": "https://static-pepper.dealabs.com/threads/raw/UhJIc/3465367_1/re/300x300/qt/60/3465367_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/hogwarts-legacy-lheritage-de-poudlard-version-ps4-3465367",
+   "date": "2026-11-22T14:39:06.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465365",
+   "title": "Lunettes de Soleil Ray-ban RB3743M Scuderia Ferrari Collection",
+   "price": "123,50€",
+   "merchant": "Ray-Ban",
+   "category": "Mode & Accessoires",
+   "image": "https://static-pepper.dealabs.com/threads/raw/gp2Yw/3465365_1/re/300x300/qt/60/3465365_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/lunettes-de-soleil-ray-ban-rb3743m-scuderia-ferrari-collection-3465365",
+   "date": "2026-11-22T14:35:35.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465364",
+   "title": "Climatiseur local mobile Midea MPPXA-09CRN7-QB6",
+   "price": "269,99€",
+   "merchant": "BUT",
+   "category": "Maison & Habitat",
+   "image": "https://static-pepper.dealabs.com/threads/raw/psgEL/3465364_1/re/300x300/qt/60/3465364_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/midea-climatiseur-local-mobile-mppxa-09crn7-qb6-3465364",
+   "date": "2026-11-22T14:35:32.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465362",
+   "title": "DUNE sur PS5 - Leclerc Rochefort (17)",
+   "price": "30,55€",
+   "merchant": "E.Leclerc",
+   "category": "Consoles & Jeux vidéo",
+   "image": "https://static-pepper.dealabs.com/threads/raw/ZSYmV/3465362_1/re/300x300/qt/60/3465362_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/dune-jeux-ps5-leclerc-3465362",
+   "date": "2026-11-22T14:42:22.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465357",
+   "title": "Coffret d'outils de précision Parkside - 66 pièces",
+   "price": "7,99€",
+   "merchant": "Lidl",
+   "category": "Jardin & Bricolage",
+   "image": "https://static-pepper.dealabs.com/threads/raw/7n2bL/3465357_1/re/300x300/qt/60/3465357_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/coffret-doutils-de-precision-parkside-66-pieces-3465357",
+   "date": "2026-11-22T14:29:52.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465356",
+   "title": "-50% sur tout le rayon jouet",
+   "merchant": "GiFi",
+   "category": "Famille & Enfants",
+   "image": "https://static-pepper.dealabs.com/threads/raw/mP2ep/3465356_1/re/300x300/qt/60/3465356_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/50-sur-tout-rayon-jouet-3465356",
+   "date": "2026-11-22T14:26:34.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465355",
+   "title": "Montre GPS connectée Garmin Venu 4 - 45 mm, Golf Ivoire",
+   "price": "379,99€",
+   "merchant": "Boulanger",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/FtAuG/3465355_1/re/300x300/qt/60/3465355_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/garmin-venu-4-41mm-gold-ivoire-3465355",
+   "date": "2026-11-22T14:24:10.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465354",
+   "title": "[Lidl+] Perceuse-visseuse sans fil Parkside PABSP 20 Li C4, Brushless 60 Nm, 20 V, sans batterie ni chargeur (Via coupon)",
+   "price": "24,29€",
+   "merchant": "Lidl",
+   "category": "Jardin & Bricolage",
+   "image": "https://static-pepper.dealabs.com/threads/raw/Q9QWP/3465354_1/re/300x300/qt/60/3465354_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/lidlperceuse-visseuse-sans-fil-pabsp-20-li-c4-brushless-60-nm-20-v-sans-batterie-ni-chargeur-via-coupon-3465354",
+   "date": "2026-11-22T14:21:46.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465353",
+   "title": "Poêle en tôle d'acier Minéral B de Buyer - 32 cm",
+   "price": "38,39€",
+   "merchant": "Amazon",
+   "category": "Maison & Habitat",
+   "image": "https://static-pepper.dealabs.com/threads/raw/byyP8/3465353_1/re/300x300/qt/60/3465353_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/poele-en-tole-dacier-mineral-b-de-buyer-32-cm-3465353",
+   "date": "2026-11-22T14:21:44.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465352",
+   "title": "Pistolet à pets Minions",
+   "price": "25,99€",
+   "merchant": "Amazon",
+   "category": "Famille & Enfants",
+   "image": "https://static-pepper.dealabs.com/threads/raw/EotTz/3465352_1/re/300x300/qt/60/3465352_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/pistolet-a-pets-pro-3465352",
+   "date": "2026-11-22T14:27:46.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465351",
+   "title": "Souris sans fil Apple Magic Mouse - Surface Multi‑Touch",
+   "temp": 148,
+   "price": "35,20€",
+   "merchant": "Amazon.de",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/vrpPD/3465351_1/re/300x300/qt/60/3465351_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/souris-sans-fil-apple-magic-mouse-surface-multitouch-3465351",
+   "date": "2026-11-22T14:19:14.000Z",
+   "hotDate": "2026-11-22T14:44:59.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465350",
+   "title": "Séances de Cinéma Offertes pour \"Astérix : Le Royaume de Nubie\" et \"Camembert\" - Cinéma Andronis, Montendre (17)",
+   "category": "Culture & Divertissement",
+   "image": "https://static-pepper.dealabs.com/threads/raw/nKxmF/3465350_1/re/300x300/qt/60/3465350_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/seances-de-cinema-offertes-pour-asterix-le-royaume-de-nubie-et-camembert-cinema-andronis-montendre-17-3465350",
+   "date": "2026-11-22T14:19:19.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465349",
+   "title": "Paquet de 1kg de café en grains Caffé Borbone Crema Classica - Intensité 8/10 (via Prévoyez & Economisez)",
+   "price": "10,77€",
+   "merchant": "Amazon",
+   "category": "Épicerie & Courses",
+   "image": "https://static-pepper.dealabs.com/threads/raw/UzX9Q/3465349_1/re/300x300/qt/60/3465349_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/paquet-de-1-kg-de-cafe-en-grains-caffe-borbone-crema-classica-intensite-810-via-prevoyez-economisez-3465349",
+   "date": "2026-11-22T14:58:42.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465347",
+   "title": "[Blu-Ray 4K UHD] F1 Le Film - Edition Limitée Steelbook",
+   "temp": 102,
+   "price": "19,99€",
+   "merchant": "Fnac",
+   "category": "Culture & Divertissement",
+   "image": "https://static-pepper.dealabs.com/threads/raw/r3Q35/3465347_1/re/300x300/qt/60/3465347_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/f1-le-film-edition-limitee-exclusivite-fnac-steelbook-blu-ray-4k-ultra-hd-3465347",
+   "date": "2026-11-22T14:10:57.000Z",
+   "hotDate": "2026-11-22T14:56:27.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465346",
+   "title": "[Étiudiants] 68 % de remise sur Google AI Pro avec YouTube Premium - Gemini + 5 To de stockage",
+   "price": "10,99€",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/J4wvO/3465346_1/re/300x300/qt/60/3465346_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/68-de-remise-sur-google-ai-pro-avec-youtube-premium1-3465346",
+   "date": "2026-11-22T14:10:02.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465345",
+   "title": "Valise Cabine rigide Delsey - 55 x 35 x 25cm, 38L (Vendeur tiers)",
+   "price": "99,99€",
+   "merchant": "Amazon",
+   "category": "Mode & Accessoires",
+   "image": "https://static-pepper.dealabs.com/threads/raw/AzwMV/3465345_1/re/300x300/qt/60/3465345_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/delsey-valise-cabine-rigide-55x35x25-cm-38-litres-3465345",
+   "date": "2026-11-22T14:09:47.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465344",
+   "title": "Barre de son Sonos Beam 2e Génération",
+   "price": "349€",
+   "merchant": "Sonos",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/fwHvK/3465344_1/re/300x300/qt/60/3465344_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/barre-de-son-sonos-beam-generation-2-3465344",
+   "date": "2026-11-22T14:17:52.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465343",
+   "title": "Eau de Parfum Jean Paul Gaultier Le Male le Parfum - 75ml",
+   "price": "52,32€",
+   "merchant": "Flaconi",
+   "category": "Santé & Cosmétiques",
+   "image": "https://static-pepper.dealabs.com/threads/raw/LOK3b/3465343_1/re/300x300/qt/60/3465343_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/eau-de-parfum-jean-paul-gaultier-le-male-le-parfum-75ml-3465343",
+   "date": "2026-11-22T14:06:25.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465342",
+   "title": "Chargeur Secteur Belkin BoostCharge Pro 70W",
+   "price": "24,99€",
+   "merchant": "Amazon",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/8Plqj/3465342_1/re/300x300/qt/60/3465342_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/belkin-boostcharge-pro-chargeur-70-w-3465342",
+   "date": "2026-11-22T14:05:30.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465341",
+   "title": "Jeu de société Qwinto",
+   "price": "10,91€",
+   "merchant": "Amazon",
+   "category": "Famille & Enfants",
+   "image": "https://static-pepper.dealabs.com/threads/raw/82sWB/3465341_1/re/300x300/qt/60/3465341_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/jeu-de-societe-qwinto-3465341",
+   "date": "2026-11-22T14:16:30.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465340",
+   "title": "Moule à tarte rond Canelée de Buyer en acier antiadhésif - diamètre 32 cm",
+   "price": "9,72€",
+   "merchant": "Amazon",
+   "category": "Maison & Habitat",
+   "image": "https://static-pepper.dealabs.com/threads/raw/NII5K/3465340_1/re/300x300/qt/60/3465340_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/de-buyer-moule-a-tarte-rond-canelee-en-acier-antiadhesif-diametre-32-cm-3465340",
+   "date": "2026-11-22T14:15:39.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465338",
+   "title": "Accessoire de rasage Philips QP240/50 Lames tondeuse Oneblade X4",
+   "price": "35,99€",
+   "merchant": "Fnac",
+   "category": "Santé & Cosmétiques",
+   "image": "https://static-pepper.dealabs.com/threads/raw/xrsVa/3465338_1/re/300x300/qt/60/3465338_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/accessoire-rasage-philips-qp24050-lames-tondeuse-oneblade-x4-3465338",
+   "date": "2026-11-22T14:13:34.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465337",
+   "title": "Pack de 3 Bains de bouche Listerine Total Care Anti-Tartre Goût Intense - 3 x 500ml (Prevoyez & Economisez)",
+   "price": "9€",
+   "merchant": "Amazon",
+   "category": "Santé & Cosmétiques",
+   "image": "https://static-pepper.dealabs.com/threads/raw/GXwPs/3465337_1/re/300x300/qt/60/3465337_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/listerine-bain-de-bouche-total-care-anti-tartre-gout-intense-3x500-ml-prevoyez-et-economisez-3465337",
+   "date": "2026-11-22T14:12:06.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465336",
+   "title": "Montre connecté Apple watch ultra 4 - 49mm (frontaliers Suisse)",
+   "price": "704,10€",
+   "merchant": "Sunrise",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/mfiYK/3465336_1/re/300x300/qt/60/3465336_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/apple-watch-ultra-4-frontaliers-suisse-3465336",
+   "date": "2026-11-22T14:00:10.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465335",
+   "title": "[Prime] Jeu de société : Sifflard (Vendeur tiers)",
+   "price": "16,79€",
+   "merchant": "Amazon",
+   "category": "Famille & Enfants",
+   "image": "https://static-pepper.dealabs.com/threads/raw/TSgBf/3465335_1/re/300x300/qt/60/3465335_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/jeu-de-societe-sifflard-3465335",
+   "date": "2026-11-22T14:11:49.000Z",
+   "fresh": true
+  },
+  {
+   "id": "3465291",
+   "title": "Barre de son SAMSUNG HW-Q995H/XE 11.1.4 Canaux",
+   "temp": 111,
+   "price": "743€",
+   "merchant": "Planète Technologie",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/1QpWX/3465291_1/re/300x300/qt/60/3465291_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/barre-de-son-samsung-hw-q995hxe-1114-canaux-3465291",
+   "hotDate": "2026-11-22T14:48:43.000Z"
+  },
+  {
+   "id": "3465282",
+   "title": "[Macif] PC Portable 16\" HyperX Omen Max 16-ah1013nf - Ultra 7 270HX, RTX 5070 TI, 16 Go RAM, 1 To SSD, Sans OS",
+   "temp": 116,
+   "price": "1 779,05€",
+   "merchant": "HP",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/d5Pz5/3465282_1/re/300x300/qt/60/3465282_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/macif-pc-portable-16-hyperx-omen-max-16-ah1013nf-ultra-7-270hx-rtx-5070-ti-16-go-ram-1-to-ssd-sans-os-3465282",
+   "hotDate": "2026-11-22T14:43:14.000Z"
+  },
+  {
+   "id": "3465273",
+   "title": "Aspirateur Dyson Cyclone V10 + kit de nettoyage minutieux",
+   "temp": 195,
+   "price": "284€",
+   "merchant": "Dyson",
+   "category": "Maison & Habitat",
+   "image": "https://static-pepper.dealabs.com/threads/raw/8n6Zd/3465273_1/re/300x300/qt/60/3465273_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/aspirateur-dyson-cyclone-v10-kit-de-nettoyage-minutieux-3465273",
+   "hotDate": "2026-11-22T13:50:08.000Z"
+  },
+  {
+   "id": "3465272",
+   "title": "Montre Homme Timex Expedition T49961",
+   "temp": 128,
+   "price": "47,89€",
+   "merchant": "Amazon",
+   "category": "Mode & Accessoires",
+   "image": "https://static-pepper.dealabs.com/threads/raw/hTypq/3465272_1/re/300x300/qt/60/3465272_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/timex-expedition-3465272",
+   "hotDate": "2026-11-22T14:21:35.000Z"
+  },
+  {
+   "id": "3465265",
+   "title": "Battlefield 6 Édition Standard sur XBOX Series X",
+   "temp": 154,
+   "price": "15,86€",
+   "merchant": "Amazon.es",
+   "category": "Consoles & Jeux vidéo",
+   "image": "https://static-pepper.dealabs.com/threads/raw/PFoeF/3465265_1/re/300x300/qt/60/3465265_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/battlefield-6-edition-standard-xbox-series-x-disque-3465265",
+   "hotDate": "2026-11-22T13:47:13.000Z"
+  },
+  {
+   "id": "3465254",
+   "title": "Tondeuse/Rasoir à barbe Philips OneBlade 360 QP2824/31 - 3x 360 lames , 3 peignes à barbe et 1 kit pour le corps",
+   "temp": 129,
+   "price": "29,99€",
+   "merchant": "Amazon",
+   "category": "Santé & Cosmétiques",
+   "image": "https://static-pepper.dealabs.com/threads/raw/kfVix/3465254_1/re/300x300/qt/60/3465254_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/philips-oneblade-360-avec-3-lames-360-kit-embouts-3465254",
+   "hotDate": "2026-11-22T14:49:32.000Z"
+  },
+  {
+   "id": "3465217",
+   "title": "Sandales Birkenstock Arizona Birko-Flor - Du 35 au 48",
+   "temp": 108,
+   "price": "53,95€",
+   "merchant": "Zalando",
+   "category": "Mode & Accessoires",
+   "image": "https://static-pepper.dealabs.com/threads/raw/JXEAQ/3465217_1/re/300x300/qt/60/3465217_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/sandales-birkenstock-arizona-birko-flor-du-35-au-48-3465217",
+   "hotDate": "2026-11-22T14:54:52.000Z"
+  },
+  {
+   "id": "3465212",
+   "title": "Apple AirTag 2e génération",
+   "temp": 109,
+   "price": "25€",
+   "merchant": "Amazon",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/bfwQl/3465212_1/re/300x300/qt/60/3465212_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/apple-airtag-2o-generation-3465212",
+   "hotDate": "2026-11-22T14:46:10.000Z"
+  },
+  {
+   "id": "3465204",
+   "title": "[Nouveaux membre Insiders] 10% de réduction sans minimum d'achat",
+   "temp": 108,
+   "merchant": "Lego",
+   "category": "Famille & Enfants",
+   "image": "https://static-pepper.dealabs.com/merchants/raw/avatar/609_1/re/352x352/qt/60/609_1.jpg",
+   "link": "https://www.dealabs.com/codes-promo/10-de-reduction-sans-minimum-dachat-des-votre-adhesion-au-programme-lego-insiders-3465204",
+   "hotDate": "2026-11-22T14:39:19.000Z"
+  },
+  {
+   "id": "3465185",
+   "title": "Horizon zero down remastered sur PS5",
+   "temp": 126,
+   "price": "19,99€",
+   "merchant": "Micromania Zing",
+   "category": "Consoles & Jeux vidéo",
+   "image": "https://static-pepper.dealabs.com/threads/raw/cah4D/3465185_1/re/300x300/qt/60/3465185_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/horizon-zero-down-remastered-3465185",
+   "hotDate": "2026-11-22T14:29:42.000Z"
+  },
+  {
+   "id": "3465141",
+   "title": "Écouteurs sans fil Apple AirPods 5 avec Boîtier de Charge sans fil (via remise au panier)",
+   "temp": 176,
+   "price": "139€",
+   "merchant": "Amazon",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/xvp3W/3465141_1/re/300x300/qt/60/3465141_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/apple-ecouteurs-sans-fil-airpods-5-avec-boitier-de-charge-sans-fil-3465141",
+   "hotDate": "2026-11-22T13:44:32.000Z"
+  },
+  {
+   "id": "3465129",
+   "title": "Montre Citizen Éco drive BM8560-11X - Titanium, Saphir",
+   "temp": 146,
+   "price": "122,55€",
+   "merchant": "Amazon.it",
+   "category": "Mode & Accessoires",
+   "image": "https://static-pepper.dealabs.com/threads/raw/cmxud/3465129_1/re/300x300/qt/60/3465129_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/montre-citizen-eco-drive-bm8560-11x-titanium-saphir-3465129",
+   "hotDate": "2026-11-22T14:01:26.000Z"
+  },
+  {
+   "id": "3465099",
+   "title": "La Grande Aventure Lego 2 : Le Jeu Vidéo sur Nintendo Switch - compatible Switch 2 (Dématérialisé)",
+   "temp": 117,
+   "price": "4,39€",
+   "merchant": "Nintendo",
+   "category": "Consoles & Jeux vidéo",
+   "image": "https://static-pepper.dealabs.com/threads/raw/amuWg/3465099_1/re/300x300/qt/60/3465099_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/la-grande-aventure-lego-2-le-jeu-video-sur-nintendo-switch-dematerialise-3465099",
+   "hotDate": "2026-11-22T14:22:27.000Z"
+  },
+  {
+   "id": "3465076",
+   "title": "Lot de 9 Paquets de 60 Lingettes Bébé pampers 99% d'eau",
+   "temp": 107,
+   "price": "12,65€",
+   "merchant": "Amazon",
+   "category": "Famille & Enfants",
+   "image": "https://static-pepper.dealabs.com/threads/raw/kBF72/3465076_1/re/300x300/qt/60/3465076_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/9-paquets-de-60-lingettes-bebe-pampers-99-deau-3465076",
+   "hotDate": "2026-11-22T14:45:54.000Z"
+  },
+  {
+   "id": "3465070",
+   "title": "Vélo KTM VTT Carbone 29\" Myroon Comp",
+   "temp": 147,
+   "price": "849,99€",
+   "merchant": "BIKE24",
+   "category": "Sports & Plein air",
+   "image": "https://static-pepper.dealabs.com/threads/raw/sFjWq/3465070_1/re/300x300/qt/60/3465070_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/ktm-vtt-carbone-29-myroon-comp-3465070",
+   "hotDate": "2026-11-22T13:42:27.000Z"
+  },
+  {
+   "id": "3465062",
+   "title": "Clavier gamer Logitech G-G915 X - Sans fil, AZERTY, mécanique",
+   "temp": 109,
+   "price": "109,99€",
+   "merchant": "Cdiscount",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/23SiP/3465062_1/re/300x300/qt/60/3465062_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/clavier-gamer-sans-fil-logitech-g-g915-x-azerty-tactile-3465062",
+   "hotDate": "2026-11-22T14:48:09.000Z"
+  },
+  {
+   "id": "3465059",
+   "title": "Baskets Nike air Force 1 07 - tailles 36,5 à 49,5",
+   "temp": 125,
+   "price": "71,99€",
+   "merchant": "Zalando",
+   "category": "Mode & Accessoires",
+   "image": "https://static-pepper.dealabs.com/threads/raw/NUaiJ/3465059_1/re/300x300/qt/60/3465059_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/baskets-nike-air-force-1-07-tailles-365-a-495-3465059",
+   "hotDate": "2026-11-22T14:37:07.000Z"
+  },
+  {
+   "id": "3465042",
+   "title": "Casque sans fil OpenMove Shokz (Via 10€ en Bon d'achat)",
+   "temp": 155,
+   "price": "53,99€",
+   "merchant": "Carrefour",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/5z1nD/3465042_1/re/300x300/qt/60/3465042_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/casque-sans-fil-openmove-shokz-via-10eur-en-bon-dachat-3465042",
+   "hotDate": "2026-11-22T14:16:49.000Z"
+  },
+  {
+   "id": "3464998",
+   "title": "Selection de baskets Nike Air Max 90 en promotion - ex : Air Max 90 iron grey/dark smoke",
+   "temp": 152,
+   "price": "89,99€",
+   "merchant": "Zalando",
+   "category": "Mode & Accessoires",
+   "image": "https://static-pepper.dealabs.com/threads/raw/5RtY9/3464998_1/re/300x300/qt/60/3464998_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/selection-de-baskets-nike-air-max-90-en-promotion-ex-air-max-90-iron-greydark-smoke-3464998",
+   "hotDate": "2026-11-22T13:49:35.000Z"
+  },
+  {
+   "id": "3464989",
+   "title": "Barre de son Sonos arc ultra - coloris blanc ou noir, Dolby Atmos, contrôle Vocal",
+   "temp": 346,
+   "price": "799€",
+   "merchant": "Amazon",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/1Jbb9/3464989_1/re/300x300/qt/60/3464989_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/sonos-arc-ultra-3464989",
+   "date": "2026-11-22T07:30:42.000Z",
+   "top": 25,
+   "wasTop": true
+  },
+  {
+   "id": "3464985",
+   "title": "Guitare électrique Squier Affinity Starcaster Deluxe - Sienna Sunburst",
+   "temp": 141,
+   "price": "259€",
+   "merchant": "Woodbrass",
+   "category": "Culture & Divertissement",
+   "image": "https://static-pepper.dealabs.com/threads/raw/yZglv/3464985_1/re/300x300/qt/60/3464985_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/guitare-electrique-squier-affinity-starcaster-deluxe-sienna-sunburst-3464985",
+   "hotDate": "2026-11-22T13:39:32.000Z"
+  },
   {
    "id": "3464965",
    "title": "Brosse à Dents Électrique Oclean Flow, 5 Modes avec Blanchiment, Sonique avec Autonomie de 180 Jours",
@@ -36,13 +598,15 @@
   },
   {
    "id": "3464962",
-   "title": "SONOS ARC ULTRA NOIR + ERA 100 SL NOIR (LA PAIRE)",
-   "price": "1 034€",
+   "title": "Pack barre de son Sonos Arc Ultra + Era 100 Sl Noir",
+   "temp": 168,
+   "price": "1 034,10€",
    "merchant": "Son-vidéo.com",
    "category": "High-Tech",
    "image": "https://static-pepper.dealabs.com/threads/raw/eRiAb/3464962_1/re/300x300/qt/60/3464962_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/sonos-arc-ultra-noir-era-100-sl-noir-la-paire-3464962",
    "date": "2026-11-22T06:31:12.000Z",
+   "hotDate": "2026-11-22T13:31:55.000Z",
    "fresh": true
   },
   {
@@ -309,6 +873,19 @@
    "fresh": true
   },
   {
+   "id": "3464932",
+   "title": "Montre Connectée Apple Watch Series 12 - GPS, 42mm, Boîtier en Aluminium, Gris sidéral, Bracelet Bleu Marine",
+   "temp": 461,
+   "price": "369€",
+   "merchant": "Amazon",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/U0VGa/3464932_1/re/300x300/qt/60/3464932_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/montre-connectee-apple-watch-series-12-gps-42mm-boitier-en-aluminium-gris-sideral-bracelet-bleu-marine-3464932",
+   "date": "2026-11-22T04:34:35.000Z",
+   "top": 20,
+   "wasTop": true
+  },
+  {
    "id": "3464917",
    "title": "Ménagère 24 couverts de table Pradel essentiel - Acier inoxydable",
    "price": "12,04€",
@@ -329,6 +906,19 @@
    "link": "https://www.dealabs.com/bons-plans/comfee-hotte-aspirante-inclinee-90cm-800m3h-classe-a-commandes-gestuelles-4-vitesses-bldc-moteur-evacuation-recyclage-verre-noir-3464905",
    "date": "2026-11-22T06:15:29.000Z",
    "fresh": true
+  },
+  {
+   "id": "3464903",
+   "title": "Coffret Blu-Ray - X-Men - 10 films",
+   "temp": 318,
+   "price": "28,24€",
+   "merchant": "Amazon",
+   "category": "Culture & Divertissement",
+   "image": "https://static-pepper.dealabs.com/threads/raw/69Whu/3464903_1/re/300x300/qt/60/3464903_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/coffret-blu-ray-x-men-10-films-3464903",
+   "date": "2026-11-22T00:32:15.000Z",
+   "top": 30,
+   "wasTop": true
   },
   {
    "id": "3464894",
@@ -388,13 +978,16 @@
   {
    "id": "3464888",
    "title": "PC de bureau Apple Mac Mini avec Puce Apple M6 - 16 Go, 256 Go Argent",
+   "temp": 343,
    "price": "842,02€",
    "merchant": "Amazon.de",
    "category": "High-Tech",
    "image": "https://static-pepper.dealabs.com/threads/raw/YQyOr/3464888_1/re/300x300/qt/60/3464888_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/pc-de-bureau-apple-mac-mini-avec-puce-apple-m6-16-go-256-go-argent-3464888",
    "date": "2026-11-21T23:57:57.000Z",
-   "fresh": true
+   "fresh": true,
+   "top": 28,
+   "wasTop": true
   },
   {
    "id": "3464887",
@@ -476,12 +1069,14 @@
   {
    "id": "3464879",
    "title": "Vinyle The Offspring : Greatest Hits Édition Limitée",
+   "temp": 160,
    "price": "20€",
    "merchant": "Amazon",
    "category": "Culture & Divertissement",
    "image": "https://static-pepper.dealabs.com/threads/raw/riMCj/3464879_1/re/300x300/qt/60/3464879_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/vinyle-the-offspring-greatest-hits-edition-limitee-3464879",
    "date": "2026-11-21T23:47:33.000Z",
+   "hotDate": "2026-11-22T13:32:31.000Z",
    "fresh": true
   },
   {
@@ -542,13 +1137,16 @@
   {
    "id": "3464871",
    "title": "Enceinte connectée Amazon Echo Dot Max",
+   "temp": 356,
    "price": "54,99€",
    "merchant": "Amazon",
    "category": "High-Tech",
    "image": "https://static-pepper.dealabs.com/threads/raw/Zodyh/3464871_1/re/300x300/qt/60/3464871_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/amazon-echo-dot-max-3464871",
    "date": "2026-11-21T23:34:09.000Z",
-   "fresh": true
+   "fresh": true,
+   "top": 24,
+   "wasTop": true
   },
   {
    "id": "3464870",
@@ -564,13 +1162,16 @@
   {
    "id": "3464869",
    "title": "Casque sans fil Logitech G PRO X 2 Lightspeed - Blanc, Transducteurs Graphène 50 mm, Jusqu'à 50h d'autonomie (PC/PS5/Switch)",
+   "temp": 382,
    "price": "109,99€",
    "merchant": "Amazon",
    "category": "Consoles & Jeux vidéo",
    "image": "https://static-pepper.dealabs.com/threads/raw/dUVS3/3464869_1/re/300x300/qt/60/3464869_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/casque-sans-fil-logitech-g-pro-x-2-lightspeed-blanc-transducteurs-graphene-50-mm-jusqua-50h-dautonomie-pcps5switch-3464869",
    "date": "2026-11-21T23:31:04.000Z",
-   "fresh": true
+   "fresh": true,
+   "top": 22,
+   "wasTop": true
   },
   {
    "id": "3464868",
@@ -652,7 +1253,7 @@
   {
    "id": "3464860",
    "title": "Ecouteurs sans fil Apple Airpods Pro 3",
-   "temp": 442,
+   "temp": 2482,
    "price": "188€",
    "merchant": "Amazon",
    "category": "High-Tech",
@@ -660,7 +1261,7 @@
    "link": "https://www.dealabs.com/bons-plans/airpods-pro-3-3464860",
    "date": "2026-11-21T23:13:46.000Z",
    "hotDate": "2026-11-21T23:41:16.000Z",
-   "top": 26,
+   "top": 2,
    "wasTop": true
   },
   {
@@ -686,15 +1287,31 @@
    "hotDate": "2026-11-22T04:56:16.000Z"
   },
   {
+   "id": "3464850",
+   "title": "Plaque pâtissière De Buyer en aluminium perforée aux bords pincés 40 x 30 cm",
+   "temp": 343,
+   "price": "10,67€",
+   "merchant": "Amazon",
+   "category": "Maison & Habitat",
+   "image": "https://static-pepper.dealabs.com/threads/raw/aMAZZ/3464850_1/re/300x300/qt/60/3464850_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/de-buyer-plaque-patissiere-en-aluminium-perforee-aux-bords-pinces-40-x-30-cm-3464850",
+   "date": "2026-11-21T23:12:33.000Z",
+   "top": 27,
+   "wasTop": true
+  },
+  {
    "id": "3464799",
    "title": "[Club+] Casque Bluetooth Sony WH-1000XM6 - Différents coloris disponibles (+5.40€ cagnottés)",
-   "temp": 200,
+   "temp": 614,
    "price": "269,99€",
    "merchant": "Boulanger",
    "category": "High-Tech",
    "image": "https://static-pepper.dealabs.com/threads/raw/9OQN0/3464799_1/re/300x300/qt/60/3464799_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/club-casque-bluetooth-sony-wh-1000xm6-differents-coloris-disponibles-540eur-cagnottes-3464799",
-   "hotDate": "2026-11-21T22:27:58.000Z"
+   "date": "2026-11-21T21:19:48.000Z",
+   "hotDate": "2026-11-21T22:27:58.000Z",
+   "top": 15,
+   "wasTop": true
   },
   {
    "id": "3464798",
@@ -711,13 +1328,16 @@
   {
    "id": "3464794",
    "title": "Chaussures Reebok Club C 85",
-   "temp": 218,
+   "temp": 921,
    "price": "29,97€",
    "merchant": "Amazon",
    "category": "Mode & Accessoires",
    "image": "https://static-pepper.dealabs.com/threads/raw/kIFeq/3464794_1/re/300x300/qt/60/3464794_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/reebok-club-c-85-3464794",
-   "hotDate": "2026-11-21T22:13:56.000Z"
+   "date": "2026-11-21T21:06:14.000Z",
+   "hotDate": "2026-11-21T22:13:56.000Z",
+   "top": 8,
+   "wasTop": true
   },
   {
    "id": "3464763",
@@ -733,25 +1353,25 @@
   {
    "id": "3464741",
    "title": "Console Nintendo Switch 2 + Jeu Mario Kart World (Via 120€ en bon d'achat) - Anglet (64)",
-   "temp": 563,
+   "temp": 1167,
    "price": "369€",
    "category": "Consoles & Jeux vidéo",
    "image": "https://static-pepper.dealabs.com/threads/raw/TNHfX/3464741_1/re/300x300/qt/60/3464741_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/console-nintendo-switch-2-jeu-mario-kart-world-via-120eur-en-bon-dachat-anglet-64-3464741",
    "date": "2026-11-21T19:56:09.000Z",
-   "top": 16,
+   "top": 4,
    "wasTop": true
   },
   {
    "id": "3464738",
    "title": "Console Nintendo Switch 2 batterie remplaçable (Via 100€ en bon d'achat) - Anglet (64)",
-   "temp": 467,
+   "temp": 857,
    "price": "349€",
    "category": "Consoles & Jeux vidéo",
    "image": "https://static-pepper.dealabs.com/threads/raw/HqoEf/3464738_1/re/300x300/qt/60/3464738_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/console-nintendo-switch-2-batterie-remplacable-via-100eur-en-bon-dachat-anglet-64-3464738",
    "date": "2026-11-21T19:48:18.000Z",
-   "top": 22,
+   "top": 9,
    "wasTop": true
   },
   {
@@ -979,7 +1599,7 @@
   {
    "id": "3464712",
    "title": "Abonnement Fibre Sosh Boost Fibre ↓ 8 Gb/s ↑ 2 Gb/s (pendant 1 an puis 28.99€)",
-   "temp": 1214,
+   "temp": 3270,
    "price": "23,99€",
    "merchant": "Showroomprivé",
    "category": "Forfaits mobiles et internet",
@@ -988,7 +1608,7 @@
    "date": "2026-11-21T18:59:50.000Z",
    "hotDate": "2026-11-21T19:33:32.000Z",
    "fresh": true,
-   "top": 6,
+   "top": 1,
    "wasTop": true
   },
   {
@@ -1070,40 +1690,49 @@
   {
    "id": "3464689",
    "title": "Pâte à Tartiner Nocciolata Cacao et Noisettes Bio - 250g",
+   "temp": 533,
    "price": "2,28€",
    "merchant": "Carrefour",
    "category": "Épicerie & Courses",
    "image": "https://static-pepper.dealabs.com/threads/raw/ZeSbf/3464689_1/re/300x300/qt/60/3464689_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/pate-a-tartiner-nocciolata-cacao-et-noisettes-bio-rigoni-di-asiago-3464689",
    "date": "2026-11-21T19:23:21.000Z",
-   "fresh": true
+   "fresh": true,
+   "top": 18,
+   "wasTop": true
   },
   {
    "id": "3464673",
    "title": "Tondeuse 7-en-1 Braun All-in-One Series 5 AIO5520",
-   "temp": 149,
+   "temp": 374,
    "price": "34,99€",
    "merchant": "Lidl",
    "category": "Santé & Cosmétiques",
    "image": "https://static-pepper.dealabs.com/threads/raw/FR1r2/3464673_1/re/300x300/qt/60/3464673_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/tondeuse-7-en-1-braun-all-in-one-series-5-aio5520-3464673",
-   "hotDate": "2026-11-21T22:22:12.000Z"
+   "date": "2026-11-21T17:58:31.000Z",
+   "hotDate": "2026-11-21T22:22:12.000Z",
+   "top": 23,
+   "wasTop": true
   },
   {
    "id": "3464667",
    "title": "Souris ergonomique sans fil Logitech MX - Vertical, Noir",
-   "temp": 103,
+   "temp": 319,
    "price": "44,99€",
    "merchant": "Amazon",
    "category": "High-Tech",
    "image": "https://static-pepper.dealabs.com/threads/raw/j7hFD/3464667_1/re/300x300/qt/60/3464667_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/souris-ergonomique-sans-fil-logitech-mx-vertical-noir-3464667",
-   "hotDate": "2026-11-22T06:42:52.000Z"
+   "date": "2026-11-21T17:46:15.000Z",
+   "hotDate": "2026-11-22T06:42:52.000Z",
+   "top": 29,
+   "wasTop": true
   },
   {
    "id": "3464665",
    "title": "Tensiomètre Bras Professionnel AILE, 2x99 Mémoire, Brassard 8.7”-16.5”",
-   "temp": 450,
+   "temp": 941,
    "price": "11,99€",
    "merchant": "Amazon",
    "category": "Santé & Cosmétiques",
@@ -1111,26 +1740,39 @@
    "link": "https://www.dealabs.com/bons-plans/tensiometre-bras-professionnel-aile-2x99-memoire-brassard-87-165-3464665",
    "date": "2026-11-21T17:43:58.000Z",
    "hotDate": "2026-11-21T19:26:40.000Z",
-   "top": 25,
+   "top": 7,
+   "wasTop": true
+  },
+  {
+   "id": "3464624",
+   "title": "Vélo VTT Lapierre Prorace 1.9 2026 - Taille XL",
+   "temp": 553,
+   "price": "377€",
+   "merchant": "Statera",
+   "category": "Sports & Plein air",
+   "image": "https://static-pepper.dealabs.com/threads/raw/SKiRX/3464624_1/re/300x300/qt/60/3464624_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/velo-vtt-lapierre-prorace-19-2026-tailles-xl-3464624",
+   "date": "2026-11-21T17:09:05.000Z",
+   "top": 16,
    "wasTop": true
   },
   {
    "id": "3464618",
    "title": "Smartphone Motorola Razr Fold - 512Go SSD, 16Go Ram, 2 coloris",
-   "temp": 461,
+   "temp": 652,
    "price": "983,51€",
    "merchant": "Amazon.it",
    "category": "High-Tech",
    "image": "https://static-pepper.dealabs.com/threads/raw/HTYPa/3464618_1/re/300x300/qt/60/3464618_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/smartphone-motorola-razr-fold-512go-16go-de-ram-2-coloris-3464618",
    "date": "2026-11-21T17:03:34.000Z",
-   "top": 23,
+   "top": 12,
    "wasTop": true
   },
   {
    "id": "3464615",
    "title": "[Prime] Robot Aspirateur Laveur Roborock Saros Z70 - 22000Pa, avec Station (vendeur tiers)",
-   "temp": 553,
+   "temp": 1031,
    "price": "598,99€",
    "merchant": "Amazon",
    "category": "Maison & Habitat",
@@ -1138,7 +1780,7 @@
    "link": "https://www.dealabs.com/bons-plans/roborock-saros-z70-3464615",
    "date": "2026-11-21T17:00:19.000Z",
    "hotDate": "2026-11-21T18:32:59.000Z",
-   "top": 18,
+   "top": 6,
    "wasTop": true
   },
   {
@@ -1155,13 +1797,42 @@
   {
    "id": "3464609",
    "title": "[Lidl+] Perceuse-visseuse sans fil Parkside PABS 20-Li 19 - 45 Nm, 20 V, sans batterie ni chargeur (via coupon)",
-   "temp": 165,
+   "temp": 635,
    "price": "10,79€",
    "merchant": "Lidl",
    "category": "Jardin & Bricolage",
    "image": "https://static-pepper.dealabs.com/threads/raw/ciiSe/3464609_1/re/300x300/qt/60/3464609_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/lidl-perceuse-visseuse-sans-fil-parkside-pabs-20-li-19-45-nm-20-v-sans-batterie-ni-chargeur-via-coupon-3464609",
-   "hotDate": "2026-11-21T18:53:29.000Z"
+   "date": "2026-11-21T16:53:55.000Z",
+   "hotDate": "2026-11-21T18:53:29.000Z",
+   "top": 14,
+   "wasTop": true
+  },
+  {
+   "id": "3464606",
+   "title": "[Prime] SSD interne 2.5\" Netac N530S - 2 To (vendeur tiers)",
+   "temp": 426,
+   "price": "169,99€",
+   "merchant": "Amazon",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/eTxV8/3464606_1/re/300x300/qt/60/3464606_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/ssd-interne-2to-25-3464606",
+   "date": "2026-11-21T16:47:22.000Z",
+   "top": 21,
+   "wasTop": true
+  },
+  {
+   "id": "3464604",
+   "title": "Baskets Nike Dunk Low Retro Premium - tailles 38,5 à 48,5",
+   "temp": 659,
+   "price": "59,99€",
+   "merchant": "Nike",
+   "category": "Mode & Accessoires",
+   "image": "https://static-pepper.dealabs.com/threads/raw/rTxpz/3464604_1/re/300x300/qt/60/3464604_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/baskets-nike-dunk-low-retro-premium-tailles-385-a-485-3464604",
+   "date": "2026-11-21T16:47:06.000Z",
+   "top": 11,
+   "wasTop": true
   },
   {
    "id": "3464603",
@@ -1176,24 +1847,65 @@
   {
    "id": "3464597",
    "title": "[Lidl+] Set de 8 outils sans fil 20V Parkside - 2 batteries 4 Ah, 1 batterie 2 Ah, chargeur rapide 4,5 A, boîte à outils (via coupon)",
-   "temp": 246,
-   "price": "224,10€",
+   "temp": 814,
+   "price": "224,1€",
    "merchant": "Lidl",
    "category": "Jardin & Bricolage",
    "image": "https://static-pepper.dealabs.com/threads/raw/VwELD/3464597_1/re/300x300/qt/60/3464597_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/lidl-set-de-8-outils-sans-fil-20v-parkside-2-batteries-4-ah-1-batterie-2-ah-chargeur-rapide-45-a-boite-a-outils-via-coupon-3464597",
-   "hotDate": "2026-11-21T22:46:38.000Z"
+   "date": "2026-11-21T16:38:38.000Z",
+   "hotDate": "2026-11-21T22:46:38.000Z",
+   "top": 10,
+   "wasTop": true
+  },
+  {
+   "id": "3464592",
+   "title": "Séance de Cinéma Offerte pour le Film \"Billie : À La Croisée Des Mondes\" + Goûter Offert - La Redorte (11)",
+   "temp": 540,
+   "category": "Culture & Divertissement",
+   "image": "https://static-pepper.dealabs.com/threads/raw/aOADq/3464592_1/re/300x300/qt/60/3464592_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/seance-de-cinema-offerte-pour-le-film-billie-a-la-croisee-des-mondes-gouter-offert-la-redorte-11-3464592",
+   "date": "2026-11-21T16:30:53.000Z",
+   "top": 17,
+   "wasTop": true
   },
   {
    "id": "3464591",
    "title": "Pack de 4 ampoules connectées Philips Hue A60 E27 - 1100 lm, blanc chaud, intensité variable, Bluetooth et Matter",
-   "temp": 157,
+   "temp": 343,
    "price": "39,99€",
    "merchant": "Amazon",
    "category": "High-Tech",
    "image": "https://static-pepper.dealabs.com/threads/raw/AkfV7/3464591_1/re/300x300/qt/60/3464591_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/ampoile-e27-1100-lumens-philips-hue-3464591",
-   "hotDate": "2026-11-21T22:21:55.000Z"
+   "date": "2026-11-21T16:30:05.000Z",
+   "hotDate": "2026-11-21T22:21:55.000Z",
+   "top": 26,
+   "wasTop": true
+  },
+  {
+   "id": "3464573",
+   "title": "Clavier sans Fil Logitech MX Keys S - Azerty, rétroéclairé, rechargeable USB-C, Gris",
+   "temp": 643,
+   "price": "69,99€",
+   "merchant": "Boulanger",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/6lRma/3464573_1/re/300x300/qt/60/3464573_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/clavier-sans-fil-logitech-mx-keys-s-azerty-retroeclaire-rechargeable-usb-c-gris-3464573",
+   "date": "2026-11-21T16:07:04.000Z",
+   "top": 13,
+   "wasTop": true
+  },
+  {
+   "id": "3464569",
+   "title": "Mixeur plongeur multifonctions Braun MultiQuick 5 MQ50202M - 1000W, avec 3 accessoires (via 15€ d'ODR)",
+   "temp": 107,
+   "price": "24,99€",
+   "merchant": "Electro Dépôt",
+   "category": "Maison & Habitat",
+   "image": "https://static-pepper.dealabs.com/threads/raw/P7q3p/3464569_1/re/300x300/qt/60/3464569_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/mixeur-plongeur-multifonctions-braun-multiquick-5-mq50202m-1000w-avec-3-accessoires-via-15eur-dodr-3464569",
+   "hotDate": "2026-11-22T14:47:44.000Z"
   },
   {
    "id": "3464559",
@@ -1205,6 +1917,17 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/EagpM/3464559_1/re/300x300/qt/60/3464559_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/coffret-sixieme-sens-edition-combo-4k-ultra-hd-blu-ray-avec-fourreau-3464559",
    "hotDate": "2026-11-21T22:20:01.000Z"
+  },
+  {
+   "id": "3464551",
+   "title": "Baskets Nike air Jordan 5 OG Hallowen - Tailles du 43 au 47,5",
+   "temp": 111,
+   "price": "136,49€",
+   "merchant": "Solebox",
+   "category": "Mode & Accessoires",
+   "image": "https://static-pepper.dealabs.com/threads/raw/Vf4Iu/3464551_1/re/300x300/qt/60/3464551_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/baskets-nike-air-jordan-5-og-hallowen-tailles-du-43-au-475-3464551",
+   "hotDate": "2026-11-22T14:28:43.000Z"
   },
   {
    "id": "3464536",
@@ -1246,7 +1969,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/PKYRp/3464523_1/re/300x300/qt/60/3464523_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/formation-gratuite-premiers-secours-citoyen-psc-laon-02-3464523",
    "date": "2026-11-21T14:59:04.000Z",
-   "top": 20,
    "wasTop": true
   },
   {
@@ -1259,7 +1981,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/kip5W/3464513_1/re/300x300/qt/60/3464513_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/pack-2-pieces-avec-sonos-era-100-sl-3464513",
    "date": "2026-11-21T14:46:51.000Z",
-   "top": 24,
    "wasTop": true
   },
   {
@@ -1272,8 +1993,18 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/BmlFI/3464497_1/re/300x300/qt/60/3464497_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/pixel-11-fushia-uniquement-3464497",
    "date": "2026-11-21T14:30:33.000Z",
-   "top": 11,
    "wasTop": true
+  },
+  {
+   "id": "3464487",
+   "title": "Nouilles Instantanées Japonaises Tanoshi Sachet Poulet - 10 x 85 g",
+   "temp": 106,
+   "price": "6,79€",
+   "merchant": "Amazon",
+   "category": "Épicerie & Courses",
+   "image": "https://static-pepper.dealabs.com/threads/raw/0jpee/3464487_1/re/300x300/qt/60/3464487_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/tanoshi-sachet-poulet-nouilles-instantanees-japonaises-10-x-85-g-3464487",
+   "hotDate": "2026-11-22T14:37:12.000Z"
   },
   {
    "id": "3464475",
@@ -1307,7 +2038,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/xcGND/3464469_1/re/300x300/qt/60/3464469_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/console-nintendo-switch-2-the-legend-of-zelda-ocarina-of-time-version-physique-via-50eur-fidelite-3464469",
    "date": "2026-11-21T13:47:28.000Z",
-   "top": 5,
    "wasTop": true
   },
   {
@@ -1320,7 +2050,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/3mHOB/3464464_1/re/300x300/qt/60/3464464_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/selection-de-jeux-ps4-playstation-hits-a-999eur-ex-tlou-remastered-god-of-war-894eur-god-of-war-3-ratchet-clank-bloodborne-etc-3464464",
    "date": "2026-11-21T13:38:32.000Z",
-   "top": 30,
    "wasTop": true
   },
   {
@@ -1455,7 +2184,6 @@
    "link": "https://www.dealabs.com/bons-plans/ecran-pc-27-aoc-agon-pro-ag276qzd2am-qd-oled-qhd-280hz-hdr-true-black-400-2x-hdmi-21-displayport-3464413",
    "date": "2026-11-21T12:32:37.000Z",
    "fresh": true,
-   "top": 19,
    "wasTop": true
   },
   {
@@ -1606,12 +2334,14 @@
   {
    "id": "3464396",
    "title": "Lot 4 prises connectées SONOFF S61s 16A (vendeur tiers)",
+   "temp": 107,
    "price": "30,09€",
    "merchant": "Amazon",
    "category": "High-Tech",
    "image": "https://static-pepper.dealabs.com/threads/raw/kvyRM/3464396_1/re/300x300/qt/60/3464396_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/lot-4-prizes-connectee-sonoff-s61s-16a-3464396",
    "date": "2026-11-21T12:17:18.000Z",
+   "hotDate": "2026-11-22T14:55:57.000Z",
    "fresh": true
   },
   {
@@ -1625,7 +2355,6 @@
    "link": "https://www.dealabs.com/bons-plans/aspirateur-balai-laveur-dreame-h12-pro-ultra-aspiration-16000pa-lavage-60-c-sechage-30-min-3464394",
    "date": "2026-11-21T12:14:09.000Z",
    "fresh": true,
-   "top": 14,
    "wasTop": true
   },
   {
@@ -1649,7 +2378,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/2hoUU/3464392_1/re/300x300/qt/60/3464392_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/the-legend-of-zelda-ocarina-of-time-sur-nintendo-switch-2-via-1287eur-en-bon-dachat-sezanne-51-outreau-62-bergerac-24-3464392",
    "date": "2026-11-21T12:54:10.000Z",
-   "top": 2,
    "wasTop": true
   },
   {
@@ -1761,7 +2489,6 @@
    "link": "https://www.dealabs.com/bons-plans/survetement-nike-academy-tailles-xs-a-3xl-3464370",
    "date": "2026-11-21T11:56:17.000Z",
    "hotDate": "2026-11-21T19:41:13.000Z",
-   "top": 17,
    "wasTop": true
   },
   {
@@ -1784,7 +2511,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/hQFAy/3464353_1/re/300x300/qt/60/3464353_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/baskets-jordan-spizike-low-tailles-40-a-505-3464353",
    "date": "2026-11-21T11:27:33.000Z",
-   "top": 13,
    "wasTop": true
   },
   {
@@ -1819,7 +2545,6 @@
    "link": "https://www.dealabs.com/bons-plans/apple-watch-series-12-gps-boitier-en-aluminium-noir-de-42-mm-3464340",
    "date": "2026-11-21T11:05:59.000Z",
    "hotDate": "2026-11-21T11:49:26.000Z",
-   "top": 9,
    "wasTop": true
   },
   {
@@ -1854,7 +2579,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/zzsaX/3464292_1/re/300x300/qt/60/3464292_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/pack-smartphone-samsung-a56-5g-128go-noir-vitre-3464292",
    "date": "2026-11-21T10:03:13.000Z",
-   "top": 28,
    "wasTop": true
   },
   {
@@ -1867,7 +2591,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/jPXWx/3464280_1/re/300x300/qt/60/3464280_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/maillot-de-foot-adidas-officiel-equipe-nationale-allemagne-3464280",
    "date": "2026-11-21T09:52:24.000Z",
-   "top": 27,
    "wasTop": true
   },
   {
@@ -1880,7 +2603,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/rGiAx/3464273_1/re/300x300/qt/60/3464273_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-apple-airpods-pro-3-via-15-eur-sur-la-carte-de-fidelite-3567-eur-en-bon-dachat-3464273",
    "date": "2026-11-21T09:45:35.000Z",
-   "top": 3,
    "wasTop": true
   },
   {
@@ -1893,7 +2615,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/Au1aZ/3464242_1/re/300x300/qt/60/3464242_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/yubico-yubikey-security-key-c-nfc-3464242",
    "date": "2026-11-21T09:14:58.000Z",
-   "top": 10,
    "wasTop": true
   },
   {
@@ -1905,7 +2626,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/YaJE3/3464208_1/re/300x300/qt/60/3464208_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/garage-robot-tondeuse-gardena-castorama-niort-3464208",
    "date": "2026-11-21T08:50:34.000Z",
-   "top": 21,
    "wasTop": true
   },
   {
@@ -1951,7 +2671,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/ui0cL/3464167_1/re/300x300/qt/60/3464167_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/quick-menu-blaq-friday-3464167",
    "date": "2026-11-21T08:12:59.000Z",
-   "top": 8,
    "wasTop": true
   },
   {
@@ -1964,7 +2683,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/IU9xC/3464144_1/re/300x300/qt/60/3464144_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/baskets-nike-air-max-alpha-trainer-6-tailles-36-a-495-3464144",
    "date": "2026-11-21T09:10:04.000Z",
-   "top": 29,
    "wasTop": true
   },
   {
@@ -1978,7 +2696,6 @@
    "link": "https://www.dealabs.com/bons-plans/pc-gamer-fixe-7800x3d-9070xt-216go-ddr-5-3464143",
    "date": "2026-11-21T07:52:21.000Z",
    "hotDate": "2026-11-21T11:08:45.000Z",
-   "top": 15,
    "wasTop": true
   },
   {
@@ -2002,7 +2719,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/s4YNM/3464113_1/re/300x300/qt/60/3464113_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/apple-iphone-18-pro-256-go-via-bon-dachat-sezanne-51-outreau-62-bergerac-24-3464113",
    "date": "2026-11-21T08:38:30.000Z",
-   "top": 1,
    "wasTop": true
   },
   {
@@ -2059,7 +2775,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/HFiiz/3464075_1/re/300x300/qt/60/3464075_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/balai-aspirateur-sans-fil-dyson-v8-cyclone-via-bon-dachat-40eur-3464075",
    "date": "2026-11-21T07:28:58.000Z",
-   "top": 12,
    "wasTop": true
   },
   {
@@ -2085,7 +2800,6 @@
    "link": "https://www.dealabs.com/bons-plans/lidl-set-perceuse-visseuse-sans-fil-12v-parkside-performance-pbspa-12-e4-2-batteries-chargeur-accessoires-inclus-3464059",
    "date": "2026-11-21T09:37:16.000Z",
    "hotDate": "2026-11-21T11:29:19.000Z",
-   "top": 4,
    "wasTop": true
   },
   {
@@ -2098,7 +2812,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/9dbHk/3464054_1/re/300x300/qt/60/3464054_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/lidl-batterie-parkside-pap-202-a1-20-v-2ah-batterie-edition-30-ans-chargeur-a-1349eur-3464054",
    "date": "2026-11-21T09:37:07.000Z",
-   "top": 7,
    "wasTop": true
   },
   {
@@ -2503,72 +3216,6 @@
    "hotDate": "2026-11-21T12:34:13.000Z"
   },
   {
-   "id": "3463969",
-   "title": "Aspirateur",
-   "price": "165,99€",
-   "merchant": "BUT",
-   "category": "Maison & Habitat",
-   "image": "https://static-pepper.dealabs.com/threads/raw/JUm5e/3463969_1/re/300x300/qt/60/3463969_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/aspirateur-3463969",
-   "date": "2026-11-20T23:18:37.000Z",
-   "fresh": true
-  },
-  {
-   "id": "3463968",
-   "title": "Chaussure de running ASICS NOOSA TRI 16 neon blue/illuminate mint du 42.5 au 49",
-   "price": "80,95€",
-   "merchant": "Zalando",
-   "category": "Sports & Plein air",
-   "image": "https://static-pepper.dealabs.com/threads/raw/f9oSa/3463968_1/re/300x300/qt/60/3463968_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/chaussure-de-running-asics-noosa-tri-16-neon-blueilluminate-mint-du-425-au-49-3463968",
-   "date": "2026-11-20T23:18:34.000Z",
-   "fresh": true
-  },
-  {
-   "id": "3463967",
-   "title": "T-shirt aléatoire",
-   "price": "4€",
-   "merchant": "Qwertee",
-   "category": "Mode & Accessoires",
-   "image": "https://static-pepper.dealabs.com/threads/raw/HiQnT/3463967_1/re/300x300/qt/60/3463967_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/t-shirt-aleatoire-3463967",
-   "date": "2026-11-20T23:17:15.000Z",
-   "fresh": true
-  },
-  {
-   "id": "3463966",
-   "title": "Lego City Undercover sur Xbox One & Xbox Series X|S (Dématérialisé)",
-   "price": "5,99€",
-   "merchant": "Xbox Store",
-   "category": "Famille & Enfants",
-   "image": "https://static-pepper.dealabs.com/threads/raw/iBvCL/3463966_1/re/300x300/qt/60/3463966_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/lego-city-undercover-sur-xbox-one-xbox-series-xs-dematerialise-3463966",
-   "date": "2026-11-20T23:17:06.000Z",
-   "fresh": true
-  },
-  {
-   "id": "3463964",
-   "title": "Blu ray 4K UHD : Mulholland Drive de David Lynch",
-   "price": "11,47€",
-   "merchant": "Amazon",
-   "category": "Culture & Divertissement",
-   "image": "https://static-pepper.dealabs.com/threads/raw/C4K9W/3463964_1/re/300x300/qt/60/3463964_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/blu-ray-4k-mulholland-drive-david-lynch-3463964",
-   "date": "2026-11-20T23:15:22.000Z",
-   "fresh": true
-  },
-  {
-   "id": "3463962",
-   "title": "Blu Ray 4K Une Histoire Vraie de David Lynch",
-   "price": "11,97€",
-   "merchant": "Amazon",
-   "category": "Culture & Divertissement",
-   "image": "https://static-pepper.dealabs.com/threads/raw/4gAwE/3463962_1/re/300x300/qt/60/3463962_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/blu-ray-4k-une-histoire-vraie-david-lynch-3463962",
-   "date": "2026-11-20T23:12:25.000Z",
-   "fresh": true
-  },
-  {
    "id": "3463961",
    "title": "Chaussures de running Asics novablast 6 plusieurs couleurs du 40 au 50.5",
    "temp": 444,
@@ -2580,28 +3227,6 @@
    "date": "2026-11-20T23:11:53.000Z",
    "fresh": true,
    "wasTop": true
-  },
-  {
-   "id": "3463959",
-   "title": "Malette de rangement Raaco CarryLite 80 4x8 9 compartiments (vendeur tiers)",
-   "price": "26,99€",
-   "merchant": "Amazon",
-   "category": "Jardin & Bricolage",
-   "image": "https://static-pepper.dealabs.com/threads/raw/Wf4jQ/3463959_1/re/300x300/qt/60/3463959_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/malette-raaco-carrylite-80-4x8-9-compartiments-3463959",
-   "date": "2026-11-20T23:11:29.000Z",
-   "fresh": true
-  },
-  {
-   "id": "3463958",
-   "title": "Canapé d’angle Hiazurm Milano réversible convertible (vendeur tiers)",
-   "price": "299€",
-   "merchant": "Conforama",
-   "category": "Maison & Habitat",
-   "image": "https://static-pepper.dealabs.com/threads/raw/vCrCR/3463958_1/re/300x300/qt/60/3463958_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/canape-dangle-compresse-reversible-convertible-3463958",
-   "date": "2026-11-20T23:11:21.000Z",
-   "fresh": true
   },
   {
    "id": "3463956",
@@ -2616,28 +3241,6 @@
    "hotDate": "2026-11-20T23:55:35.000Z",
    "fresh": true,
    "wasTop": true
-  },
-  {
-   "id": "3463955",
-   "title": "Resident Evil 4 Gold Edition sur Xbox Series X|S (Dématérialisé)",
-   "price": "14,99€",
-   "merchant": "Xbox Store",
-   "category": "Consoles & Jeux vidéo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/dSpgd/3463955_1/re/300x300/qt/60/3463955_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/resident-evil-4-gold-edition-sur-xbox-series-xs-dematerialise-3463955",
-   "date": "2026-11-20T23:09:58.000Z",
-   "fresh": true
-  },
-  {
-   "id": "3463954",
-   "title": "Carte graphique Gigabyte Radeon RX 9070 Gaming OC 16G",
-   "price": "813,77€",
-   "merchant": "Amazon.de",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/2bgia/3463954_1/re/300x300/qt/60/3463954_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/gigabyte-radeon-rx-9070-gaming-oc-16g-3463954",
-   "date": "2026-11-20T23:07:29.000Z",
-   "fresh": true
   },
   {
    "id": "3463952",
@@ -2655,45 +3258,14 @@
   {
    "id": "3463951",
    "title": "Bac à fleurs en fibre de terre Cubi L34 H30 cm Gris",
+   "temp": 110,
    "price": "22,45€",
    "merchant": "Jardiland",
    "category": "Jardin & Bricolage",
    "image": "https://static-pepper.dealabs.com/threads/raw/x0GUc/3463951_1/re/300x300/qt/60/3463951_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/bac-a-fleurs-en-fibre-de-terre-cubi-l34-h30-cm-gris-3463951",
    "date": "2026-11-20T23:04:22.000Z",
-   "fresh": true
-  },
-  {
-   "id": "3463949",
-   "title": "Hub USB-C 6-en-1 Benfei avec Boîtier SSD M.2 NVMe, USB 3.2 10 GB/s (2×USB-A + 1×USB-C), Charge PD 100W, HDMI 4K@60Hz (Vendeur Tiers)",
-   "price": "26,86€",
-   "merchant": "Amazon",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/HIWbB/3463949_1/re/300x300/qt/60/3463949_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/benfei-hub-usb-c-6-en-1-avec-boitier-ssd-m2-nvme-usb-32-10-gbs-2usb-a-1usb-c-charge-pd-100w-hdmi-4k-at-60hz-compatible-macbook-3463949",
-   "date": "2026-11-20T23:06:21.000Z",
-   "fresh": true
-  },
-  {
-   "id": "3463948",
-   "title": "Station d'accueil pour Mac mini Ugreen 10 en 2, avec Boîtier M.2 NVME SSD, DisplayPort 4K 240Hz 144Hz (vendeur tiers)",
-   "price": "64,99€",
-   "merchant": "Amazon",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/c2G0C/3463948_1/re/300x300/qt/60/3463948_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/ugreen-docking-station-usb-c-et-support-pour-mac-mini-m4m4-prom5-prom6-10-en-2-avec-boitier-m2-nvme-ssd-displayport-4k-240hz-144hz-3463948",
-   "date": "2026-11-20T23:06:55.000Z",
-   "fresh": true
-  },
-  {
-   "id": "3463947",
-   "title": "Lunettes connectée Meta Ray-ban Gen 2 Wayfarer - Noir Mat",
-   "price": "249,91€",
-   "merchant": "Amazon.es",
-   "category": "Mode & Accessoires",
-   "image": "https://static-pepper.dealabs.com/threads/raw/pu6gm/3463947_1/re/300x300/qt/60/3463947_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/ray-ban-meta-gen-2-wayfarer-lunettes-connectees-ia-noir-mat-3463947",
-   "date": "2026-11-20T23:06:06.000Z",
+   "hotDate": "2026-11-22T14:32:35.000Z",
    "fresh": true
   },
   {
@@ -2709,17 +3281,6 @@
    "hotDate": "2026-11-21T01:52:21.000Z",
    "fresh": true,
    "wasTop": true
-  },
-  {
-   "id": "3463944",
-   "title": "Station d'accueil magnétique Orico - USB C avec Boîtier SSD M.2 2230 NVMe, Docking Station 6 en 1 avec HDMI 4K@60 Hz (vendeur tiers)",
-   "price": "22,10€",
-   "merchant": "Amazon",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/5MHou/3463944_1/re/300x300/qt/60/3463944_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/orico-station-daccueil-magnetique-usb-c-avec-boitier-ssd-m2-2230-nvme-docking-station-6-en-1-avec-hdmi-4k-at-60-hzpd-100-w-usb-a-10-gbps-3463944",
-   "date": "2026-11-20T22:59:07.000Z",
-   "fresh": true
   },
   {
    "id": "3463927",
@@ -3017,17 +3578,6 @@
    "wasTop": true
   },
   {
-   "id": "3463748",
-   "title": "Paire de Stanley Fatmax Tradelift",
-   "temp": 131,
-   "price": "90,44€",
-   "merchant": "GetGoods",
-   "category": "Jardin & Bricolage",
-   "image": "https://static-pepper.dealabs.com/threads/raw/k4RwQ/3463748_1/re/300x300/qt/60/3463748_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/paire-de-stanley-fatmax-tradelift-3463748",
-   "hotDate": "2026-11-20T22:03:59.000Z"
-  },
-  {
    "id": "3463730",
    "title": "Sélection d’articles New Balance en promotion - Ex: NB 237 (Tailles du 40 au 44)",
    "temp": 545,
@@ -3095,39 +3645,6 @@
    "hotDate": "2026-11-22T02:12:19.000Z"
   },
   {
-   "id": "3463676",
-   "title": "Star Wars Jedi: Fallen Order Deluxe Edition sur PC (Dématérialisé - Steam)",
-   "temp": 144,
-   "price": "9,99€",
-   "merchant": "Steam",
-   "category": "Consoles & Jeux vidéo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/FYhx9/3463676_1/re/300x300/qt/60/3463676_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/star-wars-jedi-fallen-order-deluxe-edition-sur-pc-dematerialise-steam-3463676",
-   "hotDate": "2026-11-20T22:24:54.000Z"
-  },
-  {
-   "id": "3463666",
-   "title": "TV 55\" LG OLED55C64LA - OLED, C6, 4K, VRR 165hz, 2026 (Vendeur tiers Icoza)",
-   "temp": 135,
-   "price": "1 048€",
-   "merchant": "Amazon",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/nUXvv/3463666_1/re/300x300/qt/60/3463666_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/tv-55-lg-oled55c64la-oled-c6-4k-vrr-165hz-2026-vendeur-icoza-3463666",
-   "hotDate": "2026-11-20T23:05:32.000Z"
-  },
-  {
-   "id": "3463662",
-   "title": "Grand Theft Auto VI (GTA 6) sur Xbox Series X/S (Dématérialisé)",
-   "temp": 110,
-   "price": "64,85€",
-   "merchant": "ShopTo",
-   "category": "Consoles & Jeux vidéo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/mFQo4/3463662_1/re/300x300/qt/60/3463662_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/grand-theft-auto-vi-gta-6-xbox-series-xs-3463662",
-   "hotDate": "2026-11-20T21:59:22.000Z"
-  },
-  {
    "id": "3463653",
    "title": "TV 32\" Xiaomi L32MB-FAVEU 2026 - HD, Smart TV, Fire OS14 Alexa Voice Control",
    "temp": 134,
@@ -3172,17 +3689,6 @@
    "link": "https://www.dealabs.com/bons-plans/thecorner-ecran-pc-gaming-smart-49-odyssey-oled-g9-g95sd-dwqhd-240hz-3463644",
    "date": "2026-11-20T17:42:27.000Z",
    "wasTop": true
-  },
-  {
-   "id": "3463635",
-   "title": "Calendrier De l'Avent Harry Potter",
-   "temp": 177,
-   "price": "14,59€",
-   "merchant": "Amazon",
-   "category": "Famille & Enfants",
-   "image": "https://static-pepper.dealabs.com/threads/raw/EajSg/3463635_1/re/300x300/qt/60/3463635_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/calendrier-de-lavent-harry-potter-3463635",
-   "hotDate": "2026-11-20T22:45:23.000Z"
   },
   {
    "id": "3463634",
@@ -3327,26 +3833,6 @@
    "hotDate": "2026-11-21T23:36:05.000Z"
   },
   {
-   "id": "3463517",
-   "title": "[Enfants] Entrée gratuite pour le Black Friday le 27/11 de 16h-20h - Parc de jeux indoor L’Isle-adam (95)",
-   "temp": 138,
-   "category": "Famille & Enfants",
-   "image": "https://static-pepper.dealabs.com/threads/raw/y6w3N/3463517_1/re/300x300/qt/60/3463517_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/terrakids-entree-gratuite-pour-le-black-friday-le-2711-16h-20h-parc-de-jeux-indoor-lisle-adam-95260-3463517",
-   "hotDate": "2026-11-20T21:52:27.000Z"
-  },
-  {
-   "id": "3463505",
-   "title": "Écran PC gaming 31.5\" Lenovo LOQ 27Q-10 - QHD, Dalle IPS, 180Hz, 0.5ms, HDR10, FreeSync",
-   "price": "139,30€",
-   "merchant": "E.Leclerc",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/Er5MR/3463505_1/re/300x300/qt/60/3463505_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/ecran-pc-gaming-315-lenovo-loq-27q-10-qhd-dalle-ips-180hz-05ms-hdr10-freesync-3463505",
-   "date": "2026-11-20T23:02:06.000Z",
-   "fresh": true
-  },
-  {
    "id": "3463504",
    "title": "PC Portable 15,6\" Lenovo IdeaPad Slim 3 15AMN8 - Full HD TN, Ryzen 3 30, RAM 16 Go, SSD 512 Go, 47 Wh, Sans OS",
    "temp": 408,
@@ -3357,17 +3843,6 @@
    "link": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ideapad-slim-3-15amn8-full-hd-tn-ryzen-3-30-ram-16-go-ssd-512-go-47-wh-sans-os-3463504",
    "date": "2026-11-20T15:55:42.000Z",
    "wasTop": true
-  },
-  {
-   "id": "3463492",
-   "title": "PC Portable 15.6\" Lenovo IdeaPad Slim 3 - FHD, Ryzen 3 7320U, RAM 8 Go, SSD 512 Go, Radeon 610M, Windows 11",
-   "price": "328,30€",
-   "merchant": "E.Leclerc",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/QikZ3/3463492_1/re/300x300/qt/60/3463492_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/pc-portable-156-lenovo-ideapad-slim-3-fhd-ryzen-3-7320u-ram-8-go-ssd-512-go-radeon-610m-windows-11-3463492",
-   "date": "2026-11-20T23:03:40.000Z",
-   "fresh": true
   },
   {
    "id": "3463480",
@@ -3481,17 +3956,6 @@
    "wasTop": true
   },
   {
-   "id": "3463367",
-   "title": "PC Portable 16\" Lenovo IPS3 83K2009XFR - WUXGA IPS, Intel Core i7-13620H, 16 Go DDR5-SDRAM, 512 Go SSD, 50Wh, Windows 11",
-   "price": "559,30€",
-   "merchant": "E.Leclerc",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/hztJZ/3463367_1/re/300x300/qt/60/3463367_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/pc-portable-16-lenovo-ips3-83k2009xfr-wuxga-ips-intel-core-i7-13620h-16-go-ddr5-sdram-512-go-ssd-50wh-windows-11-3463367",
-   "date": "2026-11-20T23:10:00.000Z",
-   "fresh": true
-  },
-  {
    "id": "3463358",
    "title": "PC Portable 14\" Lenovo Yoga Slim 7 83JX009WFR - WUXGA OLED, Ultra 5 226V, 16 Go RAM, 512 Go SSD, 70 Wh, Windows 11",
    "temp": 131,
@@ -3530,17 +3994,6 @@
    "fresh": true
   },
   {
-   "id": "3463330",
-   "title": "Lot de 2 paires Embauchoirs Bexley - bois de cèdre, Tailles du 39 au 47",
-   "temp": 180,
-   "price": "29€",
-   "merchant": "Bexley",
-   "category": "Mode & Accessoires",
-   "image": "https://static-pepper.dealabs.com/threads/raw/t1LEg/3463330_1/re/300x300/qt/60/3463330_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/lot-de-2-paires-dembauchoirs-bexley-3463330",
-   "hotDate": "2026-11-20T21:34:35.000Z"
-  },
-  {
    "id": "3463325",
    "title": "Montre Lip Himalaya Chronographe 671720 - 40 mm, Verre Saphir, Quartz Miyota OS20, 5 ATM",
    "temp": 110,
@@ -3577,17 +4030,6 @@
    "wasTop": true
   },
   {
-   "id": "3463296",
-   "title": "Montre G-Shock GBA-950-2AER - Bluetooth, Step Tracker",
-   "temp": 122,
-   "price": "59€",
-   "merchant": "I-Run",
-   "category": "Mode & Accessoires",
-   "image": "https://static-pepper.dealabs.com/threads/raw/wnkrw/3463296_1/re/300x300/qt/60/3463296_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/montre-g-shock-gba-950-2aer-bluetooth-step-tracker-3463296",
-   "hotDate": "2026-11-20T22:10:47.000Z"
-  },
-  {
    "id": "3463283",
    "title": "[Adhérents] 10% de remise immédiate sur les PC portables, PC de bureau et tablettes (hors PC Gaming & marque Apple)",
    "merchant": "Fnac",
@@ -3608,14 +4050,30 @@
    "wasTop": true
   },
   {
+   "id": "3463200",
+   "title": "PC portable 13\" Apple MacBook Neo (2026) - Puce A18 Pro, 8 Go RAM, 256 Go SSD, ( Coloris au choix - via 119,85€ fidélité) - 512 Go à 719,2€",
+   "temp": 499,
+   "price": "679,15€",
+   "merchant": "E.Leclerc",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/Wfcm5/3463200_1/re/300x300/qt/60/3463200_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/pc-portable-13-apple-macbook-neo-2026-puce-a18-pro-8-go-ram-256-go-ssd-azerty-coloris-au-choix-via-11985eur-fidelite-3463200",
+   "date": "2026-11-21T23:00:02.000Z",
+   "top": 19,
+   "wasTop": true
+  },
+  {
    "id": "3463167",
    "title": "15% à 25% de remise fidélité sur une sélection de produits Apple (Macbook, iPad, Airpods Max, ...)",
-   "temp": 268,
+   "temp": 1765,
    "merchant": "E.Leclerc",
    "category": "High-Tech",
    "image": "https://static-pepper.dealabs.com/threads/raw/HoyJE/3463167_1/re/300x300/qt/60/3463167_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/15-a-25-de-remise-fidelite-sur-une-selection-de-produits-apple-macbook-ipad-airpods-max-ex-3463167",
-   "hotDate": "2026-11-22T01:11:32.000Z"
+   "date": "2026-11-21T23:00:01.000Z",
+   "hotDate": "2026-11-22T01:11:32.000Z",
+   "top": 3,
+   "wasTop": true
   },
   {
    "id": "3463164",
@@ -3639,17 +4097,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/Hq3sy/3463158_1/re/300x300/qt/60/3463158_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/nikka-from-the-barrel-avec-etui-blended-whisky-japonais-notes-de-peche-cannelles-514-alcool-3463158",
    "hotDate": "2026-11-21T10:41:05.000Z"
-  },
-  {
-   "id": "3463138",
-   "title": "Aspirateur laveur sans fil Tineco iFloor 5 Breeze - 35 min d'autonomie, auto-nettoyage, gris",
-   "temp": 118,
-   "price": "114€",
-   "merchant": "E.Leclerc",
-   "category": "Maison & Habitat",
-   "image": "https://static-pepper.dealabs.com/threads/raw/Kc843/3463138_1/re/300x300/qt/60/3463138_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/aspirateur-laveur-sans-fil-tineco-ifloor-5-breeze-35-min-dautonomie-auto-nettoyage-gris-3463138",
-   "hotDate": "2026-11-20T22:00:42.000Z"
   },
   {
    "id": "3463134",
@@ -3683,17 +4130,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/fryg7/3463117_1/re/300x300/qt/60/3463117_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/batterie-externe-tronic-20000-mah-avec-cable-usb-c-amovible-noir-ou-blanc-3463117",
    "hotDate": "2026-11-21T10:45:15.000Z"
-  },
-  {
-   "id": "3463092",
-   "title": "PC Portable gamer 15.6\" Lenovo 83SC0011FR - Full HD IPS 144 Hz, i5-13450HX, 16Go RAM, 512 Go SSD, RTX 5050 65W, 60 Wh, Windows 11",
-   "price": "811,30€",
-   "merchant": "E.Leclerc",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/99Qg5/3463092_1/re/300x300/qt/60/3463092_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/pc-portable-gamer-156-lenovo-83sc0011fr-full-hd-ips-144-hz-i5-13450hx-16go-ram-512-go-ssd-rtx-5050-65w-60-wh-windows-11-3463092",
-   "date": "2026-11-20T23:00:01.000Z",
-   "fresh": true
   },
   {
    "id": "3463079",
@@ -3755,13 +4191,16 @@
   {
    "id": "3462994",
    "title": "PC Portable 13.6\" Apple MacBook Air - Puce M5, RAM 16 Go, SSD 512 Go, WiFi 7, Plusieurs coloris (Via 179.85€ cagnottés)",
-   "temp": 324,
-   "price": "1 019,15€",
+   "temp": 1156,
+   "price": "1019,15€",
    "merchant": "E.Leclerc",
    "category": "High-Tech",
    "image": "https://static-pepper.dealabs.com/threads/raw/mhMs2/3462994_1/re/300x300/qt/60/3462994_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/pc-portable-136-apple-macbook-air-puce-m5-ram-16-go-ssd-512-go-wifi-7-plusieurs-coloris-via-17985eur-cagnottes-3462994",
-   "hotDate": "2026-11-22T00:01:01.000Z"
+   "date": "2026-11-21T23:00:00.000Z",
+   "hotDate": "2026-11-22T00:01:01.000Z",
+   "top": 5,
+   "wasTop": true
   },
   {
    "id": "3462993",
@@ -3773,28 +4212,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/6I5w1/3462993_1/re/300x300/qt/60/3462993_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/le-numero-complementaire-3462993",
    "hotDate": "2026-11-21T23:48:03.000Z"
-  },
-  {
-   "id": "3462989",
-   "title": "Rayman 30th Anniversary Edition sur PS5",
-   "temp": 142,
-   "price": "19,99€",
-   "merchant": "Fnac",
-   "category": "Consoles & Jeux vidéo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/GG5WM/3462989_1/re/300x300/qt/60/3462989_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/rayman-30th-anniversary-edition-ps5-3462989",
-   "hotDate": "2026-11-20T21:42:32.000Z"
-  },
-  {
-   "id": "3462971",
-   "title": "[Carte E.Leclerc] PC Portable 15.6\" Lenovo Loq 83JE003JFR - FHD IPS 144Hz, Intel Core i7-13650HX, RTX 5070 (115W), 16 Go RAM, SSD 512Go",
-   "price": "1 224,30€",
-   "merchant": "E.Leclerc",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/mW1FL/3462971_1/re/300x300/qt/60/3462971_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/carte-eleclerc-pc-portable-156-lenovo-loq-83je003jfr-fhd-ips-144hz-intel-core-i7-13650hx-rtx-5070-115w-16-go-ram-ssd-512go-3462971",
-   "date": "2026-11-20T23:00:00.000Z",
-   "fresh": true
   },
   {
    "id": "3462950",
@@ -3925,17 +4342,6 @@
    "link": "https://www.dealabs.com/bons-plans/mouse-pi-for-hire-sur-ps5-3462833",
    "date": "2026-11-20T09:00:08.000Z",
    "wasTop": true
-  },
-  {
-   "id": "3462816",
-   "title": "Baskets Nike Air Max Ivo - du 40 au 47.5",
-   "temp": 138,
-   "price": "57,90€",
-   "merchant": "Privé by Zalando",
-   "category": "Mode & Accessoires",
-   "image": "https://static-pepper.dealabs.com/threads/raw/9fhX4/3462816_1/re/300x300/qt/60/3462816_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/chaussure-nike-air-max-ivo-du-40-au-475-3462816",
-   "hotDate": "2026-11-20T23:13:51.000Z"
   },
   {
    "id": "3462766",
@@ -4176,17 +4582,6 @@
    "hotDate": "2026-11-21T11:51:50.000Z"
   },
   {
-   "id": "3462555",
-   "title": "Fallout 4 sur Xbox One & Series X|S & PC (Dématérialisé)",
-   "temp": 133,
-   "price": "4,99€",
-   "merchant": "Xbox Store",
-   "category": "Consoles & Jeux vidéo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/PwZwJ/3462555_1/re/300x300/qt/60/3462555_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/fallout-4-sur-xbox-one-series-xs-pc-dematerialise-3462555",
-   "hotDate": "2026-11-20T22:27:51.000Z"
-  },
-  {
    "id": "3462542",
    "title": "Lampe de poche Olight Oclip Pro - Noir, Rechargeable, 500LM",
    "temp": 579,
@@ -4247,7 +4642,6 @@
    "link": "https://www.dealabs.com/bons-plans/lot-de-4-gilets-de-securite-reflechissants-pour-poulets-canards-et-oies-3462501",
    "date": "2026-11-19T20:41:04.000Z",
    "hotDate": "2026-11-20T01:02:40.000Z",
-   "topAll": 13,
    "wasTop": true
   },
   {
@@ -4335,17 +4729,6 @@
    "wasTop": true
   },
   {
-   "id": "3462424",
-   "title": "Chaussures Nike Air Force 1\"07 - Tailles du 38,5 au 49,5",
-   "temp": 121,
-   "price": "77,99€",
-   "merchant": "Zalando",
-   "category": "Mode & Accessoires",
-   "image": "https://static-pepper.dealabs.com/threads/raw/SzO0d/3462424_1/re/300x300/qt/60/3462424_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/chaussures-nike-air-force-107-tailles-du-385-au-525-3462424",
-   "hotDate": "2026-11-20T22:25:38.000Z"
-  },
-  {
    "id": "3462414",
    "title": "Boîtier PC Jonsbo U4 Mini - Micro-ATX case, Tempered Glass, Blanc",
    "temp": 116,
@@ -4391,17 +4774,6 @@
    "link": "https://www.dealabs.com/bons-plans/flipper-zero-3462390",
    "date": "2026-11-19T19:26:03.000Z",
    "wasTop": true
-  },
-  {
-   "id": "3462379",
-   "title": "Switch Ethernet Ugreen 2.5G 8X2.5G Ports, Plug et Play, 8 ports (Vendeur tiers)",
-   "temp": 115,
-   "price": "40,32€",
-   "merchant": "Amazon",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/Zmk5B/3462379_1/re/300x300/qt/60/3462379_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/switch-ethernet-ugreen-25g-8x25g-ports-plug-et-play-8-ports-vendeur-tiers-3462379",
-   "hotDate": "2026-11-20T22:19:59.000Z"
   },
   {
    "id": "3462368",
@@ -4490,17 +4862,6 @@
    "wasTop": true
   },
   {
-   "id": "3462161",
-   "title": "Sélection de baskets Nike Air Max 90 et Drift en promotion - Ex: Nike Air Max 90 Drift Noir et Bleu",
-   "temp": 119,
-   "price": "85€",
-   "merchant": "JD Sports",
-   "category": "Mode & Accessoires",
-   "image": "https://static-pepper.dealabs.com/threads/raw/fpG39/3462161_1/re/300x300/qt/60/3462161_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/selection-de-baskets-nike-air-max-90-et-drift-en-promotion-ex-nike-air-max-90-drift-noir-et-bleu-3462161",
-   "hotDate": "2026-11-20T21:54:59.000Z"
-  },
-  {
    "id": "3462153",
    "title": "[The Corner / BoursoBank] Forfait Mobile Voyage RED by SFR 5G - 250 Go 5G + 35 Go depuis 138 destinations (sans engagement)",
    "temp": 1505,
@@ -4522,17 +4883,6 @@
    "link": "https://www.dealabs.com/bons-plans/lonesome-village-gratuit-sur-android-ios-dematerialise-epic-games-3462113",
    "date": "2026-11-19T15:09:04.000Z",
    "wasTop": true
-  },
-  {
-   "id": "3462092",
-   "title": "LEGO Ideas 21367 - La fusée de Tintin",
-   "temp": 106,
-   "price": "104€",
-   "merchant": "KingDultes",
-   "category": "Famille & Enfants",
-   "image": "https://static-pepper.dealabs.com/threads/raw/5mK4Q/3462092_1/re/300x300/qt/60/3462092_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/la-fusee-de-tintin-lego-3462092",
-   "hotDate": "2026-11-20T22:18:28.000Z"
   },
   {
    "id": "3462082",
@@ -4595,28 +4945,6 @@
    "wasTop": true
   },
   {
-   "id": "3461919",
-   "title": "Kit solaire plug and play 3000 WC avec stockage 5.76 kwh - 3 zendure solarflow 800 plus + 6 panneaux bifacial 500 w",
-   "temp": 129,
-   "price": "1 799€",
-   "merchant": "Kit Solaire Discount",
-   "category": "Jardin & Bricolage",
-   "image": "https://static-pepper.dealabs.com/threads/raw/nDfzr/3461919_1/re/300x300/qt/60/3461919_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/kit-solaire-plug-and-play-3000-wc-avec-stockage-576-kwh-3-zendure-solarflow-800-plus-6-panneaux-bifacial-500w-3461919",
-   "hotDate": "2026-11-20T21:53:00.000Z"
-  },
-  {
-   "id": "3461852",
-   "title": "Perceuse visseuse sans fil Parkside",
-   "temp": 116,
-   "price": "19,99€",
-   "merchant": "Lidl",
-   "category": "Jardin & Bricolage",
-   "image": "https://static-pepper.dealabs.com/threads/raw/xoe9Z/3461852_1/re/300x300/qt/60/3461852_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/perceuse-visseuse-sans-fil-parkside-3461852",
-   "hotDate": "2026-11-20T22:16:48.000Z"
-  },
-  {
    "id": "3461836",
    "title": "Casque Cube Heron MIPS - Taille S Bleu, Noir, Jaune, Rouge",
    "temp": 667,
@@ -4627,17 +4955,6 @@
    "link": "https://www.dealabs.com/bons-plans/casque-cube-heron-mips-taill-s-bleu-noir-jaune-rouge-3461836",
    "date": "2026-11-19T11:48:48.000Z",
    "wasTop": true
-  },
-  {
-   "id": "3461785",
-   "title": "LEGO Botanicals La Composition Florale Sombre 11513",
-   "temp": 130,
-   "price": "48€",
-   "merchant": "KingDultes",
-   "category": "Famille & Enfants",
-   "image": "https://static-pepper.dealabs.com/threads/raw/UdYJk/3461785_1/re/300x300/qt/60/3461785_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/la-composition-florale-sombre-lego-botanicals-11513-3461785",
-   "hotDate": "2026-11-20T21:35:22.000Z"
   },
   {
    "id": "3461749",
@@ -4712,17 +5029,6 @@
    "date": "2026-11-19T10:23:24.000Z",
    "fresh": true,
    "wasTop": true
-  },
-  {
-   "id": "3461667",
-   "title": "Montre Automatique Lip Rallye (671821) - Chronographe, 42 mm, Verre Saphir Bombé, 45 H",
-   "temp": 110,
-   "price": "795€",
-   "merchant": "Ocarat",
-   "category": "Mode & Accessoires",
-   "image": "https://static-pepper.dealabs.com/threads/raw/PYDy6/3461667_1/re/300x300/qt/60/3461667_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/montre-automatique-lip-rallye-671821-chronographe-42-mm-verre-saphir-bombe-45-h-3461667",
-   "hotDate": "2026-11-20T21:47:34.000Z"
   },
   {
    "id": "3461620",
@@ -4817,17 +5123,6 @@
    "link": "https://www.dealabs.com/bons-plans/lego-star-wars-75419-letoile-de-la-mort-ucs-9023-pieces-38-minifigurines-3461318",
    "date": "2026-11-19T07:16:14.000Z",
    "wasTop": true
-  },
-  {
-   "id": "3461315",
-   "title": "Vidéoprojecteur Xgimi Vibe One + Écran de projection et support - FHD 1080P, Google TV, 250 lumens ISO, Audio JBL, Batterie (VendeurDarty)",
-   "temp": 116,
-   "price": "179,99€",
-   "merchant": "Cdiscount",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/rOdvj/3461315_1/re/300x300/qt/60/3461315_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/videoprojecteur-xgimi-vibe-one-ecran-de-projection-et-support-fhd-1080p-google-tv-250-lumens-iso-audio-jbl-batterie-vendeurdarty-3461315",
-   "hotDate": "2026-11-20T21:58:26.000Z"
   },
   {
    "id": "3461164",
@@ -6694,13 +6989,14 @@
   {
    "id": "3457368",
    "title": "Manette sans fil Sony PlayStation DualSense (Via Reprise Manette PlayStation DualSense)",
-   "temp": 9390,
+   "temp": 9509,
    "price": "9,99€",
    "merchant": "Micromania Zing",
    "category": "Consoles & Jeux vidéo",
    "image": "https://static-pepper.dealabs.com/threads/raw/EaxMy/3457368_1/re/300x300/qt/60/3457368_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/manette-playstation-dualsense-via-reprise-manette-playstation-dualsense-3457368",
    "date": "2026-11-16T10:02:42.000Z",
+   "topAll": 25,
    "wasTop": true
   },
   {
@@ -6910,13 +7206,14 @@
   {
    "id": "3456688",
    "title": "[Non-abonnés] Sélection d'abonnements PS+/Extra/Premium - Ex : Premium 12 mois, Extra 94,49€, Essential 57,99€ (Dématérialisé)",
-   "temp": 9376,
+   "temp": 9472,
    "price": "101,83€",
    "merchant": "PlayStation Store",
    "category": "Consoles & Jeux vidéo",
    "image": "https://static-pepper.dealabs.com/threads/raw/okgcW/3456688_1/re/300x300/qt/60/3456688_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/selection-dabonnements-psextrapremium-en-promotion-ex-abonnement-premium-12-mois-extra-9449eur-essential-5799eur-dematerialise-3456688",
    "date": "2026-11-16T00:03:55.000Z",
+   "topAll": 27,
    "wasTop": true
   },
   {
@@ -7210,14 +7507,14 @@
   {
    "id": "3454417",
    "title": "Offres Black Friday Sony - Ex : 20€ de réduction sur les manettes sans fil Sony DualSense PS5 (-5% pour les abonnés PS+)",
-   "temp": 11087,
+   "temp": 11146,
    "price": "54,99€",
    "merchant": "PlayStation Direct",
    "category": "Consoles & Jeux vidéo",
    "image": "https://static-pepper.dealabs.com/threads/raw/7sSu0/3454417_1/re/300x300/qt/60/3454417_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/offres-black-friday-sony-ex-20eur-de-reduction-sur-les-manette-sans-fil-sony-dualsense-ps5-5-pour-les-abonnes-ps-3454417",
    "date": "2026-11-15T11:00:00.000Z",
-   "topAll": 27,
+   "topAll": 18,
    "wasTop": true
   },
   {
@@ -7360,7 +7657,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/hQ2fJ/3453287_1/re/300x300/qt/60/3453287_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/abonnes-pro-max-ultra-team-reinitialisation-complete-gratuite-des-limites-claude-session-5-h-hebdo-tous-modeles-3453287",
    "date": "2026-11-12T14:48:10.000Z",
-   "topAll": 17,
    "wasTop": true
   },
   {
@@ -7385,6 +7681,18 @@
    "link": "https://www.dealabs.com/bons-plans/pack-console-nintendo-switch-mario-kart-8-deluxe-via-40eur-sur-carte-de-fidelite-3452984",
    "date": "2026-11-12T09:56:07.000Z",
    "wasTop": true
+  },
+  {
+   "id": "3452962",
+   "title": "[Non abonnés Amazon Prime - Sous Conditions d'éligibilité] 3 Mois d'Abonnement à Amazon Prime",
+   "temp": 10103,
+   "price": "3,99€",
+   "merchant": "Amazon",
+   "category": "Services",
+   "image": "https://static-pepper.dealabs.com/threads/raw/H1qQ1/3452962_1/re/300x300/qt/60/3452962_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/3-mois-d-amazon-prime-pour-399-euros-3452962",
+   "date": "2026-11-12T10:48:12.000Z",
+   "topAll": 22
   },
   {
    "id": "3452321",
@@ -7563,7 +7871,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/6sr3e/3449570_1/re/300x300/qt/60/3449570_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/carte-fnac-pendant-3-ans-renouvellement-ou-nouvel-adherent-3449570",
    "date": "2026-11-09T08:00:34.000Z",
-   "topAll": 21,
    "wasTop": true
   },
   {
@@ -7624,15 +7931,16 @@
    "wasTop": true
   },
   {
-   "id": "3446558",
-   "title": "Clé USB 3.2 Kingston DataTraveler Exodia M - 256 Go (vendeur tiers)",
-   "temp": 109,
-   "price": "29,49€",
-   "merchant": "Amazon",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/X3QSO/3446558_1/re/300x300/qt/60/3446558_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/kingston-datatraveler-exodia-m-cle-usb-32-gen-1-dtxm256gb-3446558",
-   "hotDate": "2026-11-20T22:17:30.000Z"
+   "id": "3445885",
+   "title": "[Nouveaux Adhérents] Carte Fnac+ 3 Ans Jackpot : 19,99€ payés = 30€ crédités sur votre compte fidélité",
+   "temp": 9785,
+   "price": "19,99€",
+   "merchant": "Fnac",
+   "category": "Services",
+   "image": "https://static-pepper.dealabs.com/threads/raw/c1qlS/3445885_1/re/300x300/qt/60/3445885_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/cartes-fnac-3-ans-jackpot-1999eur-payes-30eur-credites-sur-votre-compte-fidelite-3445885",
+   "date": "2026-11-04T08:26:13.000Z",
+   "topAll": 23
   },
   {
    "id": "3445876",
@@ -7654,7 +7962,6 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/O9Qeh/3445313_1/re/300x300/qt/60/3445313_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/unidays-50eur-en-credits-chatgpt-gratuit-3445313",
    "date": "2026-11-03T13:49:30.000Z",
-   "topAll": 20,
    "wasTop": true
   },
   {
@@ -7765,6 +8072,18 @@
    "wasTop": true
   },
   {
+   "id": "3440807",
+   "title": "Livraison Mondial Relay chez Leboncoin à 0,99€",
+   "temp": 11246,
+   "price": "0,99€",
+   "merchant": "Leboncoin",
+   "category": "Services",
+   "image": "https://static-pepper.dealabs.com/threads/raw/d4TBc/3440807_1/re/300x300/qt/60/3440807_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/livraison-mondial-relay-chez-leboncoin-a-099eur-3440807",
+   "date": "2026-10-28T17:37:25.000Z",
+   "topAll": 17
+  },
+  {
    "id": "3439706",
    "title": "Avant-premières Black Friday : jusqu'à 1 000 Mi Points en vous connectant + Redmi Buds 6 active offerts à l'achat d'un smartphone",
    "temp": 4833,
@@ -7833,6 +8152,18 @@
    "wasTop": true
   },
   {
+   "id": "3429656",
+   "title": "Appareil à Raclette Elsay - 6 Coupelles",
+   "temp": 8913,
+   "price": "8€",
+   "merchant": "E.Leclerc",
+   "category": "Maison & Habitat",
+   "image": "https://static-pepper.dealabs.com/threads/raw/pIfac/3429656_1/re/300x300/qt/60/3429656_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/appareil-a-raclette-6-coupelles-elsay-grill-3429656",
+   "date": "2026-10-09T19:42:50.000Z",
+   "topAll": 30
+  },
+  {
    "id": "3426372",
    "title": "Veste Uniqlo - 100% Coton, Beige ou Vert Olive, Tailles du XS au 3XL",
    "temp": 1423,
@@ -7854,29 +8185,53 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/Cpl4A/3418918_1/re/300x300/qt/60/3418918_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/nouveaux-clients-la-boite-sosh-fibre-a-1999eurmois-pendant-12-mois-puis-2499eur-par-mois-frais-de-mise-service-offerts-3418918",
    "date": "2026-09-27T16:23:53.000Z",
-   "topAll": 14
+   "topAll": 8
   },
   {
-   "id": "3400330",
-   "title": "DLC The Witcher 3: Wild Hunt - Hearts of Stone & Blood and Wine deviennent gratuits sur PC, Xbox, PS et Switch (Dématérialisé)",
-   "temp": 18744,
-   "merchant": "Steam",
+   "id": "3416726",
+   "title": "[Précommande] Console Nintendo Switch - avec Mario Kart 8 Deluxe",
+   "temp": 9503,
+   "price": "199,99€",
+   "merchant": "Nintendo",
    "category": "Consoles & Jeux vidéo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/93XJp/3400330_1/re/300x300/qt/60/3400330_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/proprietaires-the-witcher-3-standard-dlc-heart-of-stone-et-blood-and-wine-deviennent-gratuits-sur-pc-xbox-ps4ps5-3400330",
-   "date": "2026-08-25T20:24:22.000Z",
-   "topAll": 7
+   "image": "https://static-pepper.dealabs.com/threads/raw/OsNo7/3416726_1/re/300x300/qt/60/3416726_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/nintendo-switch-mario-kart-8-deluxe-3416726",
+   "date": "2026-09-21T12:59:56.000Z",
+   "topAll": 26
+  },
+  {
+   "id": "3397555",
+   "title": "Manette sans fil MSI Force GC300 Blanc - Bluetooth, USB Type-C vers A, D-Pad Interchangeable, 2 Moteurs à Vibration",
+   "temp": 132,
+   "price": "29,90€",
+   "merchant": "Amazon",
+   "category": "Consoles & Jeux vidéo",
+   "image": "https://static-pepper.dealabs.com/threads/raw/D32Nf/3397555_1/re/300x300/qt/60/3397555_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/manette-sans-fil-msi-force-gc300-blanc-bluetooth-usb-type-c-vers-a-d-pad-interchangeable-2-moteurs-a-vibration-3397555",
+   "hotDate": "2026-11-22T13:39:11.000Z"
+  },
+  {
+   "id": "3396340",
+   "title": "[Etudiants] Google AI Pro + 5 To Stockage Cloud + Youtube Premium Lite - 5.49€/mois pendant 4 Ans (21.99€ après les 4 ans)",
+   "temp": 9647,
+   "price": "5,49€",
+   "merchant": "Google Store",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/5nPz2/3396340_1/re/300x300/qt/60/3396340_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/google-ai-pro-5-to-stockage-cloud-youtube-premium-lite-3396340",
+   "date": "2026-08-19T19:55:48.000Z",
+   "topAll": 24
   },
   {
    "id": "3396332",
    "title": "[Etudiants] Google Gemini AI Plus Gratuit pendant 12 mois avec 400go d'espace de stockage",
-   "temp": 23068,
+   "temp": 23125,
    "merchant": "Google Store",
    "category": "High-Tech",
    "image": "https://static-pepper.dealabs.com/threads/raw/0RBAJ/3396332_1/re/300x300/qt/60/3396332_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/etudiants-google-gemini-ai-pro-gratuit-pendant-12-mois-avec-400go-despace-de-stockage-3396332",
    "date": "2026-08-19T19:36:25.000Z",
-   "topAll": 4
+   "topAll": 2
   },
   {
    "id": "3374263",
@@ -7886,31 +8241,7 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/Hqn99/3374263_1/re/300x300/qt/60/3374263_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/jeu-100-gagnant-zoo-beauval-ex-25a-50-de-reduction-sur-les-billets-3374263",
    "date": "2026-07-12T17:10:04.000Z",
-   "topAll": 25
-  },
-  {
-   "id": "3361074",
-   "title": "[Précommande] Grand Theft Auto VI (GTA 6) sur PS5 / Xbox Series (Code dans la boite)",
-   "temp": 23731,
-   "price": "60€",
-   "merchant": "Amazon",
-   "category": "Consoles & Jeux vidéo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/VeR3n/3361074_1/re/300x300/qt/60/3361074_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/gta-6-xbox-series-precommande-code-dans-boite-3361074",
-   "date": "2026-06-25T01:43:34.000Z",
-   "topAll": 3
-  },
-  {
-   "id": "3360997",
-   "title": "Grand Theft Auto VI (GTA 6) sur PS5 / Xbox Series (Code dans la boite)",
-   "temp": 29601,
-   "price": "60€",
-   "merchant": "E.Leclerc",
-   "category": "Consoles & Jeux vidéo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/a4KBT/3360997_1/re/300x300/qt/60/3360997_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/precommande-grand-theft-auto-vi-sur-ps5-dematerialise-3360997",
-   "date": "2026-06-24T22:21:57.000Z",
-   "topAll": 2
+   "topAll": 14
   },
   {
    "id": "3357481",
@@ -7921,7 +8252,7 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/Jp17g/3357481_1/re/300x300/qt/60/3357481_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/15eur-offerts-des-60eur-ou-20offerts-des-80eur-3357481",
    "date": "2026-06-22T20:37:40.000Z",
-   "topAll": 30
+   "topAll": 20
   },
   {
    "id": "3340992",
@@ -7933,7 +8264,7 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/NRENQ/3340992_1/re/300x300/qt/60/3340992_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/nouveaux-clients-la-boite-sosh-fibre-a-1999eurmois-pendant-12-mois-puis-2499eur-par-mois-frais-de-mise-service-offerts-3340992",
    "date": "2026-06-04T07:39:20.000Z",
-   "topAll": 26
+   "topAll": 16
   },
   {
    "id": "3325681",
@@ -7944,7 +8275,7 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/hInNN/3325681_1/re/300x300/qt/60/3325681_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/hogwarts-legacy-lheritage-de-poudlard-gratuit-3325681",
    "date": "2026-04-30T15:14:40.000Z",
-   "topAll": 6
+   "topAll": 4
   },
   {
    "id": "3325675",
@@ -7955,19 +8286,18 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/lfCUS/3325675_1/re/300x300/qt/60/3325675_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/streets-of-rage-4-gratuit-sur-android-et-ios-dematerialise-3325675",
    "date": "2026-04-30T15:19:18.000Z",
-   "topAll": 18
+   "topAll": 10
   },
   {
-   "id": "3320819",
-   "title": "[Le 29/04 à 8h30] 10€ de réduction dès 50€ d'achat sur tout le site - hors marketplace et exclusions (15€ pour les membres Prime)",
-   "temp": 14738,
-   "price": "10€",
-   "merchant": "Amazon",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/merchants/raw/avatar/36_3/re/352x352/qt/60/36_3.jpg",
-   "link": "https://www.dealabs.com/codes-promo/10-euros-de-50-euros-dachat-3320819",
-   "date": "2026-04-24T07:16:24.000Z",
-   "topAll": 11
+   "id": "3279887",
+   "title": "3 mois GRATUITS de Google AI Pro avec 2 To et Gemini 3 Pro",
+   "temp": 16206,
+   "merchant": "Coursera",
+   "category": "Services",
+   "image": "https://static-pepper.dealabs.com/threads/raw/1Huey/3279887_1/re/300x300/qt/60/3279887_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/3-mois-gratuits-de-google-ai-pro-avec-2-to-et-gemini-3-pro-3279887",
+   "date": "2026-02-20T08:48:47.000Z",
+   "topAll": 7
   },
   {
    "id": "3222707",
@@ -7989,29 +8319,30 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/akWKV/3222218_1/re/300x300/qt/60/3222218_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/dead-cells-gratuit-sur-ios-et-android-3222218",
    "date": "2025-12-11T16:15:09.000Z",
-   "topAll": 9
+   "topAll": 6
   },
   {
-   "id": "3216991",
-   "title": "Thème Waze Conduisez avec Bob L'Eponge gratuit (Français - Dématérialisé)",
-   "temp": 15347,
-   "merchant": "Waze",
+   "id": "3216865",
+   "title": "Livraison à 0,99€ en point relais Mondial Relay sur Leboncoin",
+   "temp": 10216,
+   "price": "0,99€",
+   "merchant": "Leboncoin",
    "category": "Services",
-   "image": "https://static-pepper.dealabs.com/threads/raw/iKYRI/3216991_1/re/300x300/qt/60/3216991_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/theme-waze-conduisez-avec-bob-leponge-3216991",
-   "date": "2025-12-05T12:05:59.000Z",
-   "topAll": 10
+   "image": "https://static-pepper.dealabs.com/threads/raw/EpJx8/3216865_1/re/300x300/qt/60/3216865_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/livraison-a-099eur-en-point-relais-mondial-relay-sur-leboncoin-3216865",
+   "date": "2025-12-05T08:28:08.000Z",
+   "topAll": 21
   },
   {
-   "id": "3155976",
-   "title": "Forfait Mobile Sosh : Appels/SMS/MMS Illimités avec 200 Go DATA 5G & 40 Go depuis 147 destinations",
-   "temp": 13450,
-   "price": "15,99€",
-   "merchant": "Sosh",
-   "category": "Forfaits mobiles et internet",
-   "image": "https://static-pepper.dealabs.com/threads/raw/gKfMo/3155976_1/re/300x300/qt/60/3155976_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/forfait-mobile-sosh-appelssmsmms-illimites-avec-200-go-data-5g-40-go-depuis-73-destinations-40-go-en-eudom-sans-engagement-3155976",
-   "date": "2025-10-09T07:10:02.000Z",
+   "id": "3210552",
+   "title": "Console Nintendo Switch 2 avec Mario Kart World (Dématérialisé - Via 234,50€ en Bon d'Achat) - Pineuilh (33)",
+   "temp": 11525,
+   "price": "234,50€",
+   "merchant": "E.Leclerc",
+   "category": "Consoles & Jeux vidéo",
+   "image": "https://static-pepper.dealabs.com/threads/raw/8jfym/3210552_1/re/300x300/qt/60/3210552_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/pack-console-nintendo-switch-2-avec-mario-kart-world-via-23450eur-en-bon-dachat-pineuilh-33-3210552",
+   "date": "2025-11-29T02:38:05.000Z",
    "topAll": 15
   },
   {
@@ -8023,7 +8354,7 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/sPonh/3154900_1/re/300x300/qt/60/3154900_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/etudiant-google-gemini-ai-pro-gratuit-pendant-12-mois-3154900",
    "date": "2025-10-07T23:40:16.000Z",
-   "topAll": 8
+   "topAll": 5
   },
   {
    "id": "2933927",
@@ -8035,18 +8366,7 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/GyiMa/2933927_1/re/300x300/qt/60/2933927_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/nouveaux-clients-forfait-mobile-sosh-appelssmsmms-illimites-130-go-data-4g-15-go-en-eudom-sans-engagement-2933927",
    "date": "2024-11-28T08:08:10.000Z",
-   "topAll": 5
-  },
-  {
-   "id": "2883124",
-   "title": "Contrôle technique offert chez Volkswagen",
-   "temp": 10794,
-   "merchant": "Volkswagen",
-   "category": "Gratuit",
-   "image": "https://static-pepper.dealabs.com/threads/raw/Xoha0/2883124_1/re/300x300/qt/60/2883124_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/controle-technique-gratuit-chez-volkswagen-2883124",
-   "date": "2024-10-14T13:07:26.000Z",
-   "topAll": 29
+   "topAll": 3
   },
   {
    "id": "2660693",
@@ -8058,29 +8378,7 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/pXkCb/2660693_1/re/300x300/qt/60/2660693_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/adherents-fnac-console-sony-ps5-standard-40eur-sur-le-compte-fidelite-2660693",
    "date": "2023-11-16T17:07:13.000Z",
-   "topAll": 19
-  },
-  {
-   "id": "2572436",
-   "title": "Toutes les Applications Adobe Creative Cloud (+100 Go) par an, sans VPN via le Liban (Dématérialisés)",
-   "temp": 12245,
-   "price": "3,78€",
-   "category": "High-Tech",
-   "image": "https://static-pepper.dealabs.com/threads/raw/JNSqG/2572436_1/re/300x300/qt/60/2572436_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/toutes-les-applications-adobe-creative-cloud-100-go-par-an-sans-vpn-2572436",
-   "date": "2023-06-22T19:06:43.000Z",
-   "topAll": 24
-  },
-  {
-   "id": "2291904",
-   "title": "Chalet en bois Vera (Epaisseur 66 mm), 132 m² + Terrasse de 13.5 m² (Chaletdejardin.fr)",
-   "temp": 14667,
-   "price": "48 733€",
-   "category": "Maison & Habitat",
-   "image": "https://static-pepper.dealabs.com/threads/raw/vadXG/2291904_1/re/300x300/qt/60/2291904_1.jpg",
-   "link": "https://www.dealabs.com/bons-plans/chalet-en-bois-de-vera-terrasse-2291904",
-   "date": "2022-01-13T08:20:05.000Z",
-   "topAll": 12
+   "topAll": 11
   },
   {
    "id": "2243117",
@@ -8092,7 +8390,18 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/default/2243117_4/re/300x300/qt/60/2243117_4.jpg",
    "link": "https://www.dealabs.com/bons-plans/abonnement-de-12-mois-au-playstation-plus-2243117",
    "date": "2021-11-17T09:58:10.000Z",
-   "topAll": 22
+   "topAll": 12
+  },
+  {
+   "id": "2226462",
+   "title": "[Sous Conditions] 5€ de réduction dès 15€ d'achat sur des produits vendus & expédiés par Amazon",
+   "temp": 9395,
+   "merchant": "Amazon",
+   "category": "High-Tech",
+   "image": "https://static-pepper.dealabs.com/threads/raw/default/2226462_1/re/300x300/qt/60/2226462_1.jpg",
+   "link": "https://www.dealabs.com/bons-plans/sous-conditions-5eur-de-reduction-des-15eur-dachat-sur-des-produits-vendus-expedies-par-amazon-2226462",
+   "date": "2021-10-26T16:39:18.000Z",
+   "topAll": 28
   },
   {
    "id": "2025926",
@@ -8104,7 +8413,18 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/default/2025926_1/re/300x300/qt/60/2025926_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/smartphone-61-apple-iphone-11-hd-retina-a13-4gb-64-go-divers-coloris-via-34450-eur-en-bon-dachat-bergerac-24-2025926",
    "date": "2020-11-29T17:51:10.000Z",
-   "topAll": 16
+   "topAll": 9
+  },
+  {
+   "id": "1923859",
+   "title": "Watch Dogs 2 gratuit sur PC (Dématérialisé - Uplay)",
+   "temp": 9326,
+   "merchant": "Ubisoft Store",
+   "category": "Consoles & Jeux vidéo",
+   "image": "https://static-pepper.dealabs.com/threads/raw/default/1923859_2/re/300x300/qt/60/1923859_2.jpg",
+   "link": "https://www.dealabs.com/bons-plans/watch-dogs-2-gratuit-sur-uplay-durant-levenement-ubisoft-forward-1923859",
+   "date": "2020-07-06T16:30:51.000Z",
+   "topAll": 29
   },
   {
    "id": "1125342",
@@ -8115,7 +8435,7 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/default/1125342_3/re/300x300/qt/60/1125342_3.jpg",
    "link": "https://www.dealabs.com/bons-plans/nouveaux-clients-forfait-mobile-mensuel-free-mobile-appelssmsmms-illimites-100-go-en-4g-et-europe-25-go-en-3g-sans-engagement-pendant-un-an-1125342",
    "date": "2017-11-29T17:10:49.000Z",
-   "topAll": 23
+   "topAll": 13
   },
   {
    "id": "372979",
@@ -8126,7 +8446,7 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/default/372979_1/re/300x300/qt/60/372979_1.jpg",
    "link": "https://www.dealabs.com/bons-plans/sous-conditions-forfait-mensuel-appelssmsmms-illimites-100-go-de-data-en-france-25-go-en-europeusadom-sans-engagement-pendant-un-an-372979",
    "date": "2017-06-22T17:04:08.000Z",
-   "topAll": 28
+   "topAll": 19
   }
  ]
 }
